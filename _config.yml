@@ -1,0 +1,12 @@
+# Build settings
+
+port: 4000
+markdown:  kramdown
+permalink: /:title
+plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+
+title:		   "Future Mobility squad"
+description: "Squad of students in the Department of Industrial Design of TU/e"
+author:      "Pavlo Bazilinskyy"
