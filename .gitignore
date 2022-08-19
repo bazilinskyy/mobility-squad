@@ -1,0 +1,9 @@
+_site/
+_site/*
+.jekyll-cache/
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
+*.sublime-workspace
+*.sublime-project
+.sass-cache/*
