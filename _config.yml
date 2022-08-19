@@ -1,12 +1,19 @@
-# Build settings
+# Site Build Settings
 
-port: 4000
-markdown:  kramdown
-permalink: /:title
-plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
+# jekyll-paginate configuration
+paginate:            5
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           /:title
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+title:		           "Future Mobility"
+description:	       "Showcase of the Future Mobility squad of the department of Industrial Design of TU/e"
+author:              "Pavlo Bazilinskyy"
 
-title:		   "Future Mobility squad"
-description: "Squad of students in the Department of Industrial Design of TU/e"
-author:      "Pavlo Bazilinskyy"
+# RSS 2.0 can be used instead of Atom by uncommenting following two lines
+#feed:
+#  path: rss-feed.xml

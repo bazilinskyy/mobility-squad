@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    portfolio-jekyll-theme (2.0.0)
+    millennial (2.0.0)
       jekyll (~> 4.2)
       jekyll-feed (~> 0.6)
       jekyll-paginate (~> 1.1)
@@ -78,7 +78,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  portfolio-jekyll-theme!
+  millennial!
 
 BUNDLED WITH
    2.1.4
