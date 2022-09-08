@@ -1,16 +1,18 @@
 ---
 layout: project
+year: 2021
 title: "Shapewheel"
 author: "Jay Kolvenbag"
 categories: project
 tags: [bla,bla]
 image: 2021-shapewheel-1.jpg
+short: A device that helps facilitating level 3 automated cars in asking the driver to regain control.
 ---
 
 # Description
-Shapewheel: physically facilitating the transition of control in level 3 autonomous vehicles.
+Shapewheel: physically facilitating the transition of control in level 3 automated vehicles.
 
-ShapeWheel is a device that helps facilitating level 3 autonomous cars in asking the driver to regain control. It does so by notifying the driver in advance using a shape changing interface. When it is time to take over, the steering wheel physically approaches the driver by emerging from the dashboard.
+ShapeWheel is a device that helps facilitating level 3 automated cars in asking the driver to regain control. It does so by notifying the driver in advance using a shape changing interface. When it is time to take over, the steering wheel physically approaches the driver by emerging from the dashboard.
 
 ![shapewheel](/assets/img/2021-shapewheel-2.jpg)
 
