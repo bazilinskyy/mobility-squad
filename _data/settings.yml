@@ -7,6 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
+- {name: 'Projects',           url: 'projects'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
@@ -26,6 +27,6 @@ pagination:
 
 sharing_button_prompt: 'Feel free to share!'
 
-related_posts: 'You may also enjoy...'
+related_projects: 'You may also find interesting...'
 
-post_date_prefix: 'Written on'
+project_date_prefix: 'Published on'
