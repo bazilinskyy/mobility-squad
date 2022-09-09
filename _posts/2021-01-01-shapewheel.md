@@ -4,7 +4,7 @@ year: 2021
 title: "Shapewheel"
 author: "Jay Kolvenbag"
 categories: project
-tags: [automated-driving,control,steering-wheel,in-car]
+tags: [automated-driving,control,steering-wheel,in-vehicle]
 image: 2021-shapewheel-1.jpg
 short: A device that helps facilitating level 3 automated cars in asking the driver to regain control.
 ---

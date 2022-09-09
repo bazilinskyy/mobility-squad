@@ -40,7 +40,7 @@
   Responsiveness with a dropdown menu
 */
 
-@media (min-width: $container-width - 600) {
+@media (min-width: $container-width) {
   .dropbtn {
     display: none;
   }
@@ -48,7 +48,7 @@
     display: none;
   }
 }
-@media (max-width: $container-width - 600) {
+@media (max-width: $container-width) {
   .menu-list {
     display: none;
   }
