@@ -79,7 +79,7 @@
 .related-posts {
   padding: 10px 0px 10px;
   list-style: none;
-  display: inline-block;
+  /*display: inline-block;*/
 }
 .related-thumbnail {
   position: relative;
@@ -109,7 +109,7 @@
 }
 @media (max-width: $tablet-width) {
   .related-thumbnail{
-    width: 95vw;
+    width: 100%;
   }
 }
 
