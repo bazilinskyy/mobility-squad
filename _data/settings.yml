@@ -4,7 +4,7 @@ disqus:
   disqus_shortname: 'mobility-squad'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-112060364-2'
+google-ID: 'G-YGJHLQFY20'
 
 menu:
 - {name: 'Projects',           url: 'projects'}
