@@ -41,5 +41,5 @@ Solar powered vehicles will impose interesting challenges in terms of changing d
 People and Things are inter-connected 24/7. Developments such as connected cars extend this into the mobility domain. People want to remain connected while on the go and cars themselves are a huge data source, offering new opportunities to the users and society with clear links to the Internet of Things and Big Data.
 
 <div style="margin-bottom: 14px; ">
-  <a class="twitter-timeline" data-height="470" data-theme="light" href="https://twitter.com/bazilinskyy?ref_src=twsrc%5Etfw">Tweets by @bazilinskyy</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <a class="twitter-timeline" data-height="470" data-theme="light" href="https://twitter.com/mobility_squad?ref_src=twsrc%5Etfw">Tweets by @mobility_squad</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>

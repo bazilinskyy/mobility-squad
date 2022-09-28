@@ -1,7 +1,7 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: true
-  disqus_shortname: 'mobility-squad'
+  disqus_shortname: 'mobility_squad'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: 'UA-112060364-2'
@@ -13,7 +13,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link:    'https://twitter.com/mobility-squad'}
+- {icon: 'twitter', link:    'https://twitter.com/mobility_squad'}
 # - {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
 - {icon: 'instagram', link:  'https://instagram.com/mobilitysquad'}
 - {icon: 'envelope', link:   'mailto:m.j.broekhuijsen@tue.nl'}
