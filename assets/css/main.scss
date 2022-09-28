@@ -27,3 +27,27 @@ $codepen-color: black;
 $rss-color: #ff6600;
 
 @import "-sections-dir";
+
+.about-person {
+    width: 100%;
+    min-width: 120px;
+    /*max-width: 220px;*/
+    margin: 1px;
+}
+
+.about-people-table {
+    width: 100%;
+    padding: 1px;
+    border: 0 solid #000 !important;
+}
+
+.about-people-cell {
+    border: 0 solid #000 !important;
+    vertical-align: top;
+    text-align: center;
+}
+
+.about-people-name {
+    font-weight: 1000;
+    font: "Roboto-Bold";
+}
