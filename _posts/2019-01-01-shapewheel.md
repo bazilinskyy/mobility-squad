@@ -16,5 +16,5 @@ ShapeWheel is a device that helps facilitating level 3 automated cars in asking 
 
 ![shapewheel](/assets/img/2019-shapewheel-2.jpg)
 
-# Video
+# Video demo
 <iframe style="display:inline-block; border:0px solid #FFF; width: 100%; height: 358px" src="https://www.youtube.com/embed/jS87ixTveIA?playlist=jS87ixTveIA&loop=1&autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>

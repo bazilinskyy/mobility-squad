@@ -17,3 +17,6 @@ author:              "Pavlo Bazilinskyy"
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
+
+# Sharing of posts
+hide_post_share: true
