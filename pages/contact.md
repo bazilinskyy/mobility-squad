@@ -25,7 +25,7 @@ permalink: /contact
   <tr>
     <td class="about-people-cell"><a href="https://www.linkedin.com/in/isabel-kuipers-478b4a209">Isabel Kuipers</a><br>Squad assistant</td>
     <td class="about-people-cell"><a href="https://www.linkedin.com/in/deydavedey">Dr. ir. Debargha Dey</a><br>Expert</td>
-    <td class="about-people-cell"><a href="https://www.linkedin.com/in/ruolin-gao-731904163">Ruolin Gao</a><br>Coach</td>
+    <td class="about-people-cell"><a href="https://www.linkedin.com/in/ruolin-gao-731904163">Ruolin Gao</a><br>PhD student and expert</td>
   </tr>
    <tr>
     <td class="about-people-cell"><img src="/assets/img/people/haoyu-dong.jpg" class="about-person"></td>

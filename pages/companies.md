@@ -4,12 +4,6 @@ title: Companies
 permalink: /companies
 ---
 
-<!-- {% for post in site.posts %}
-  {{ forloop.index }}. <a href="{{ post.url }}">{{ post.title }}</a> by {{ post.author }} ({{ post.year }}).
-  <br>
-  <span class="project-description">{{ post.short }}</span>
-{% endfor %} -->
-
 {% assign companies = site.posts | group_by: "company" %}
 {% assign companiesSorted = companies | sort: "name" %}
 
