@@ -64,12 +64,14 @@ $rss-color: #ff6600;
     border: 0 solid #000 !important;
     vertical-align: top;
     text-align: center;
+    padding-right: 0px;
 }
 
 .project-cell-right {
     border: 0 solid #000 !important;
     vertical-align: top;
     text-align: left;
+    padding-left: 0px;
 }
 
 .project-name {
@@ -79,6 +81,8 @@ $rss-color: #ff6600;
 
 .company-logo {
     max-width: 150px;
-    /*float: left;*/
-    /*display: block;*/
+}
+
+.project-thumbnail {
+    max-width: 150px;
 }
