@@ -28,6 +28,7 @@ $rss-color: #ff6600;
 
 @import "-sections-dir";
 
+/* Contact */
 .about-person {
     width: 100%;
     min-width: 120px;
@@ -50,4 +51,34 @@ $rss-color: #ff6600;
 .about-people-name {
     font-weight: 1000;
     font: "Roboto-Bold";
+}
+
+/* Projects */
+.project-table {
+    width: 100%;
+    padding: 1px;
+    border: 0 solid #000 !important;
+}
+
+.project-cell-left {
+    border: 0 solid #000 !important;
+    vertical-align: top;
+    text-align: center;
+}
+
+.project-cell-right {
+    border: 0 solid #000 !important;
+    vertical-align: top;
+    text-align: left;
+}
+
+.project-name {
+    font-weight: 1000;
+    font: "Roboto-Bold";
+}
+
+.company-logo {
+    max-width: 150px;
+    /*float: left;*/
+    /*display: block;*/
 }

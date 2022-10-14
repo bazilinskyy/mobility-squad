@@ -4,6 +4,7 @@ year: 2019
 title: "Canvas Car"
 author: "Hin Chan, Jort Cuijpers, Hugo Heller, Teun Wittenbols"
 categories: project
+company: na
 tags: [automated-driving,seat-layout]
 image: 2019-canvas-car-1.jpg
 short: Flexible and adaptable interior layout of the personal car.

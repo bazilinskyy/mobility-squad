@@ -4,6 +4,7 @@ year: 2019
 title: "Shapewheel"
 author: "Jay Kolvenbag"
 categories: project
+company: na
 tags: [automated-driving,control,steering-wheel,in-vehicle]
 image: 2019-shapewheel-1.jpg
 short: Physically facilitating the transition of control in level 3 automated vehicles.
