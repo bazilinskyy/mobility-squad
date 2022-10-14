@@ -15,7 +15,7 @@ permalink: /companies
       {% endif %}
       <tr>
         <td class="project-cell-left">
-          <img src="{{ site.github.url }}/assets/img/companies/{{ company.name }}.jpg" class="company-logo"/>
+          <img src="{{ site.github.url }}/assets/img/companies/{{ company.name | downcase }}.jpg" class="company-logo"/>
         </td>
         <td class="project-cell-right">
           <ul>

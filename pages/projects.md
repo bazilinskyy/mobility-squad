@@ -9,8 +9,7 @@ permalink: /projects
     {% for post in site.posts %}
       <tr>
         <td class="project-cell-left">
-          <img src="/assets/img/{{ post.image }}" class="project-thumbnail">
-          <!-- <h3>{{ company.name }}</h3> -->
+          <a href="{{ post.url }}"><img src="/assets/img/{{ post.image }}" class="project-thumbnail"></a>
         </td>
         <td class="project-cell-right">
           <ul>
