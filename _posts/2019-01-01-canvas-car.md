@@ -2,7 +2,7 @@
 layout: project
 year: 2019
 title: "Canvas Car"
-author: "Hin Chan, Jort Cuijpers, Hugo Heller, Teun Wittenbols"
+author: "Hin Chan, Jort Cuijpers, Hugo Heller and Teun Wittenbols"
 categories: project
 company: na
 tags: [automated-driving,seat-layout]
