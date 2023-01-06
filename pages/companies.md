@@ -18,13 +18,14 @@ permalink: /companies
           <img src="{{ site.github.url }}/assets/img/companies/{{ company.name | downcase }}.jpg" class="company-logo"/>
         </td>
         <td class="project-cell-right">
-          <ul>
+          
         {% assign yearTitlesSorted = company.items | sort: "year" %}
         {% for post in yearTitlesSorted %}
-          {{ forloop.index }}. <a href="{{ post.url }}">{{ post.title }}</a> by {{ post.author }} ({{ post.year }}).
-          <span class="project-description">{{ post.short }}</span>
+          <ul>
+            {{ forloop.index }}. <a href="{{ post.url }}">{{ post.title }}</a> by {{ post.author }} ({{ post.year }}).
+            <span class="project-description">{{ post.short }}</span>
+          </ul>
         {% endfor %}
-      </ul>
         </td>
       </tr>
     {% endfor %}
