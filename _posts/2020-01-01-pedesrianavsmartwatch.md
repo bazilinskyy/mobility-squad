@@ -27,6 +27,6 @@ Therefore I dove into the subject of scalable interaction between AV and pedestr
   <img src="/assets/img/2020-pedesrianavsmartwatch-4.jpg">
 </div>
 
-## Video demo TODO
-<iframe style="display:inline-block; border:0px solid #FFF; width: 100%; height: 358px" src="https://www.youtube.com/embed/E5AbnHUnNTI?playlist=E5AbnHUnNTI&loop=1&autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>
+## Video demo
+<iframe style="display:inline-block; border:0px solid #FFF; width: 100%; height: 358px" src="https://www.youtube.com/embed/qSzafiCF9mw?playlist=qSzafiCF9mw&loop=1&autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>
 

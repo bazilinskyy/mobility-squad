@@ -1,11 +1,11 @@
 ---
 layout: project
 year: 2020
-title: "AeroAdaptive materials"
+title: "AeroAdaptive"
 author: "Caya Kors"
 categories: project
 company: na
-tags: [automated-driving,interior,shape-changing]
+tags: [automated-driving,interior,shape-changing,materials]
 image: 2020-aeroadaptive-1.jpg
 short: An interior that can change shape to allow more freedom and flexibility.
 ---

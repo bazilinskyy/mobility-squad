@@ -5,7 +5,7 @@ title: "Range anxiety"
 author: "Luc Buijtels, Arnout Ulenberg, Sigi van Lindt"
 categories: project
 company: xyzdynamics
-tags: [electric-car]
+tags: [electric-cars]
 image: 2019-rangeanxiety-1.jpg
 short: Showing range of a vehicle to reduce stress.
 ---

@@ -5,13 +5,13 @@ title: "Maintaining Human Autonomy during the Transition of Control"
 author: "Benno Thijs"
 categories: project
 company: na
-tags: [automated-driving,shape-changing,exterior]
+tags: [automated-driving,tor,control]
 image: 2020-humanautonomy-1.jpg
 short: Physically facilitating the transition of control in level 3 automated vehicles.
 ---
 
 ## Description
-Artificial intelligence will have a pervasive and profound impact on society and technology, it’s influence can already be seen in the field of autonomous driving. From where cars are now, to fully automated vehicles there will be a time where humans will need to take over control because the car cannot drive during those specific events.
+Artificial intelligence will have a pervasive and profound impact on society and technology, it’s influence can already be seen in the field of automated driving. From where cars are now, to fully automated vehicles there will be a time where humans will need to take over control because the car cannot drive during those specific events.
 
 My research is part of the Human AI Alliance and aims to maintain human autonomy during that transition of control. A user interface was created with the goal of increasing transparency, supporting predictability and improving visibility during the transition.
 

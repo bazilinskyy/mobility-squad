@@ -5,7 +5,7 @@ title: "Concealable tangible interfaces for autonomous vehicles’ interior"
 author: "Dion Tjokroatmo"
 categories: project
 company: na
-tags: [interior]
+tags: [interior,control]
 image: 2020-tangibleinterfaces-1.jpg
 short: Interface to change temperature and music without a screen.
 ---

@@ -5,7 +5,7 @@ title: "Phased control transitions in highly automated vehicles"
 author: "Nijs Bouman"
 categories: project
 company: na
-tags: [automated-driving,augumented-reality,virtual-reality]
+tags: [automated-driving,control]
 image: 2019-controltransitions-1.jpg
 short: Designing an interface to improve transitioning vehicle control from computer to human.
 ---

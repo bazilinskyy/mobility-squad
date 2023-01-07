@@ -1,13 +1,13 @@
 ---
 layout: project
 year: 2020
-title: "Shape-changing on autonomous omnidirectional vehicles"
+title: "Shape-changing omnidirectional AVs"
 author: "Jilez Aelbers, Bart Arts, Carlos Bernad Thomas, Max Crutzen, Jesper Kapteijns"
 categories: project
 company: na
-tags: [automated-driving,exterior,shape-changing]
+tags: [automated-driving,exterior,shape-changing,omnidirectional]
 image: 2020-shapechangingav-1.jpg
-short: An interior that can change shape to allow more freedom and flexibility.
+short: Different directions of communication for future automated vehicles.
 ---
 
 ## Description

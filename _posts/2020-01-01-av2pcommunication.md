@@ -1,13 +1,13 @@
 ---
 layout: project
 year: 2020
-title: "AV2P Communication"
+title: "AV2P communication"
 author: "Tygo Hendricx"
 categories: project
 company: na
 tags: [automated-driving,ehmi,projection]
 image: 2020-av2pcommunication-1.jpg
-short: Projection-based communication to allow pedestrians to safely cross.
+short: Projection-based communication to allow pedestrians to cross.
 ---
 
 ## Description

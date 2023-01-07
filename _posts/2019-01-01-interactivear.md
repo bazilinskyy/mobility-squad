@@ -1,8 +1,9 @@
 ---
 layout: project
 year: 2019
-title: "Interactive AR concepts in virtual reality"
+title: "Interactive AR concepts in VR"
 author: "Niels Post"
+coach: "Bastian Pfleging"
 categories: project
 company: cerence
 tags: [automated-driving,augumented-reality,virtual-reality]
@@ -13,7 +14,7 @@ short: Testing augumented reality concepts in virtual reality.
 ## Description
 Through the use of a VR module, these augmented reality interactions are displayed in a virtual car which is supported by three use cases of the near future:
 
-1. How will we handle & answer phone calls?
+1. How will we handle and answer phone calls?
 2. What would the driver do in case of a non-intuitive navigation?
 3. What is the function and impact of unknown buttons in the car?
 

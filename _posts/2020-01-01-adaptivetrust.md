@@ -7,7 +7,7 @@ categories: project
 company: na
 tags: [trust,automated-driving,head-up-display]
 image: 2020-adaptivetrust-1.jpg
-short: An user interface that creates a healthy level of trust.
+short: A head-up display that creates a healthy level of trust.
 ---
 
 ## Description

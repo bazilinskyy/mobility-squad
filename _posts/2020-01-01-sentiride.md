@@ -1,13 +1,13 @@
 ---
 layout: project
 year: 2020
-title: "SentiRide: affective technologies for driver behaviour change"
+title: "SentiRide"
 author: "Noah Joosse"
 categories: project
 company: Mentech
 tags: [automated-driving,mobile]
 image: 2020-sentiride-1.jpg
-short: Interactive tool to help the bus driver to stay focused.
+short: Affective technology for driver behavior change.
 ---
 
 ## Description

@@ -1,13 +1,13 @@
 ---
 layout: project
 year: 2020
-title: "Trust in autonomous public transportation"
+title: "Trust in automated public transportation"
 author: "Lucas Schuiling, Inse van Houts, Boris van Weezenbeek"
 categories: project
 company: na
 tags: [automated-driving,trust,public-transport]
 image: 2020-trusttransport-1.jpg
-short: The study encompasses to what extent the transparency of a system's actions and environment influence passenger trust.
+short: Exploration or effects of transparency of system's actions on passenger's trust.
 ---
 
 ## Description

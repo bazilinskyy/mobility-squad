@@ -1,13 +1,13 @@
 ---
 layout: project
 year: 2020
-title: "Personalization in AV interior and exterior"
+title: "Personalisation in AV interior and exterior"
 author: "Nina Bremmers, Eline Renne, Tom Schreurs, Dillon Shieh"
 categories: project
 company: na
 tags: [automated-driving,interior,exterior,personalisation]
 image: 2020-personalisedav-1.jpg
-short: Personalised exterior and interior of an automated vehicle
+short: Personalised exterior and interior of an automated vehicle.
 ---
 
 ## Description

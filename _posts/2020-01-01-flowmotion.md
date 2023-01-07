@@ -7,7 +7,7 @@ categories: project
 company: na
 tags: [automated-driving,ehmi,colour,light]
 image: 2020-flowmotion-1.jpg
-short: Facilitating communication between automated vehicles and pedestrians. 
+short: Communication between automated vehicles and pedestrians by means of liquid. 
 ---
 
 ## Description

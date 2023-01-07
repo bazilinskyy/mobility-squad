@@ -5,9 +5,9 @@ title: "StekkerTogether"
 author: "Jort Cuijpers"
 categories: project
 company: na
-tags: [electric-car,charging]
+tags: [electric-car,charging,mobile]
 image: 2020-stekkertogether-1.jpg
-short: Private electric charger owners can share their charger with neighbours to create a community that’s not commercially focused.
+short: Service for sharing electric chargers.
 ---
 
 ## Description

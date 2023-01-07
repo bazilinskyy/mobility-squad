@@ -1,7 +1,7 @@
 ---
 layout: project
 year: 2019
-title: "Customized seating system"
+title: "Customised seating system"
 author: "Mervyn Franssen"
 categories: project
 company: na
