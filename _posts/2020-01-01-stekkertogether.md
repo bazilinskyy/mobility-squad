@@ -5,7 +5,7 @@ title: "StekkerTogether"
 author: "Jort Cuijpers"
 categories: project
 company: na
-tags: [electric-car,charging,mobile]
+tags: [electric-cars,charging,mobile]
 image: 2020-stekkertogether-1.jpg
 short: Service for sharing electric chargers.
 ---
