@@ -3,6 +3,7 @@ layout: project
 year: 2019
 title: "Visions for future public buses"
 author: "Thijs Baselmans"
+coach: "Marieke Martens"
 categories: project
 company: na
 tags: [public-transport,seat-layout,automated-driving]
@@ -11,7 +12,7 @@ short: New furniture and layouts that allow for a wider range of seating options
 ---
 
 ## Description
-I, Thijs Baselmans, was captivated by the big potential offered by public buses. I examined the experience of riding a bus and explored ways to improve it using a variety of approaches: Firstly, an extensive look was taken into the role of the bus driver and how it might evolve considering developments in the field of autonomous driving.
+I, Thijs Baselmans, was captivated by the big potential offered by public buses. I examined the experience of riding a bus and explored ways to improve it using a variety of approaches: Firstly, an extensive look was taken into the role of the bus driver and how it might evolve considering developments in the field of automated driving.
 
 Also, users were actively involved. Through interactive exercises and interviews they helped envision what the future of bus travel might look like, identify pain points and review concepts.
 

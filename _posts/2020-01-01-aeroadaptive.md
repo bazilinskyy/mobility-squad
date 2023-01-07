@@ -11,7 +11,7 @@ short: An interior that can change shape to allow more freedom and flexibility.
 ---
 
 ## Description
-Currently humans monitor the driving environment in cars, but new technologies have emerged that enable a shift to an automated system. These cars are Autonomous Vehicles. When integrated in society, the car becomes a space of its own. Instead of individually owned vehicles, society will have shifted to shared mobility. Sharing a vehicle demands adaptability to meet the needs of the commuter.
+Currently humans monitor the driving environment in cars, but new technologies have emerged that enable a shift to an automated system. These cars are Automated Vehicles. When integrated in society, the car becomes a space of its own. Instead of individually owned vehicles, society will have shifted to shared mobility. Sharing a vehicle demands adaptability to meet the needs of the commuter.
 
 This project envisions the possibilities for an interior that can meet these new requirements. An interior that can change shape to allow more freedom and flexibility. Through material driven studies AeroAdaptive Materials are created.
 

@@ -3,6 +3,7 @@ layout: project
 year: 2020
 title: "Shape-changing omnidirectional AVs"
 author: "Jilez Aelbers, Bart Arts, Carlos Bernad Thomas, Max Crutzen, Jesper Kapteijns"
+coach: "Marieke Martens"
 categories: project
 company: na
 tags: [automated-driving,exterior,shape-changing,omnidirectional]

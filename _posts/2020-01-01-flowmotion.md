@@ -3,6 +3,7 @@ layout: project
 year: 2020
 title: "Flowmotion"
 author: "Daan Sonnemans, Brent Temmink, Karijn Teuling, Den, Lotte van Berkel"
+coach: "Bastian Pfleging"
 categories: project
 company: na
 tags: [automated-driving,ehmi,colour,light]

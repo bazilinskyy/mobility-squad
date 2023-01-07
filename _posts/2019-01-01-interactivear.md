@@ -5,7 +5,7 @@ title: "Interactive AR concepts in VR"
 author: "Niels Post"
 coach: "Bastian Pfleging"
 categories: project
-company: cerence
+company: Cerence
 tags: [automated-driving,augumented-reality,virtual-reality]
 image: 2019-interactivear-1.jpg
 short: Testing augumented reality concepts in virtual reality.

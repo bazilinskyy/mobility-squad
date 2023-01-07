@@ -3,6 +3,7 @@ layout: project
 year: 2020
 title: "Maintaining Human Autonomy during the Transition of Control"
 author: "Benno Thijs"
+coach: "Bastian Pfleging"
 categories: project
 company: na
 tags: [automated-driving,tor,control]

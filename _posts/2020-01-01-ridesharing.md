@@ -3,6 +3,7 @@ layout: project
 year: 2020
 title: "First class ride sharing"
 author: "Luuk Faber"
+coach: "Bastian Pfleging"
 categories: project
 company: na
 tags: [automated-driving,car-sharing]

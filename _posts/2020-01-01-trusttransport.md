@@ -3,6 +3,7 @@ layout: project
 year: 2020
 title: "Trust in automated public transportation"
 author: "Lucas Schuiling, Inse van Houts, Boris van Weezenbeek"
+coach: "Bahar Barati"
 categories: project
 company: na
 tags: [automated-driving,trust,public-transport]

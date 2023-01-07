@@ -7,4 +7,7 @@
   {% unless page.company == "na" %}
     in cooperation with {{ page.company }}
   {% endunless %}
+  {% if page.coach %}
+    and coached by {{ page.coach }}
+  {% endif %}
 </span>

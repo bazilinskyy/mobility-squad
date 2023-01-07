@@ -1,7 +1,7 @@
 ---
 layout: project
 year: 2020
-title: "Concealable tangible interfaces for autonomous vehicles’ interior"
+title: "Concealable tangible interfaces for automated vehicles’ interior"
 author: "Dion Tjokroatmo"
 categories: project
 company: na

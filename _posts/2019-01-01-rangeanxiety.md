@@ -3,8 +3,9 @@ layout: project
 year: 2019
 title: "Range anxiety"
 author: "Luc Buijtels, Arnout Ulenberg, Sigi van Lindt"
+coach: "Marieke Martens"
 categories: project
-company: xyzdynamics
+company: XYZ Dynamics
 tags: [electric-cars]
 image: 2019-rangeanxiety-1.jpg
 short: Showing range of a vehicle to reduce stress.

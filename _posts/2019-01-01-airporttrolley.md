@@ -3,6 +3,7 @@ layout: project
 year: 2019
 title: "The airport trolley"
 author: "Tommaso Braceschi, Mireille Lee, Joep Jan Meerdink"
+coach: "Stijn Ossevoort"
 categories: project
 company: na
 tags: [trolley,airport]

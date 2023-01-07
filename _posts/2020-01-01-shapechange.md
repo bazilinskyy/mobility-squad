@@ -3,6 +3,7 @@ layout: project
 year: 2020
 title: "Exterior shape-change in automated vehicles"
 author: "Coen de Zeeuw"
+coach: "Miguel Bruns"
 categories: project
 company: na
 tags: [automated-driving,shape-changing,exterior,ehmi]

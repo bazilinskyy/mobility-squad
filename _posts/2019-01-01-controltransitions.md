@@ -3,6 +3,7 @@ layout: project
 year: 2019
 title: "Phased control transitions in highly automated vehicles"
 author: "Nijs Bouman"
+coach: "Marieke Martens"
 categories: project
 company: na
 tags: [automated-driving,control]

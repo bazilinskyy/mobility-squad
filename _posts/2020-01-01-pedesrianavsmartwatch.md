@@ -3,6 +3,7 @@ layout: project
 year: 2020
 title: "Smartwatch for a scalable pedestrian-AV interaction"
 author: "Moos van der Bijl"
+coach: "Stijn Ossevoort"
 categories: project
 company: na
 tags: [exterior,automated-driving,smartwatch,ehmi]
