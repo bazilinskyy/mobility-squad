@@ -32,3 +32,6 @@ This proof of concept is a step towards implementation in the next generation of
 <div class="project-image">
   <img src="/assets/img/2020-flowmotion-5.jpg">
 </div>
+
+## Continuation
+Project was continued in TODO.

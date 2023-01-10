@@ -26,3 +26,8 @@ When vehicles become automated, communication that used to be with the driver wi
 <div class="project-image">
   <img src="/assets/img/2020-outerface-5.jpg">
 </div>
+
+## Publication
+Project resulted in the publication:
+
+> Verstegen, R., Dey, D., & Pfleging, B. (2021). CommDisk: A holistic 360 eHMI concept to facilitate scalable, unambiguous interactions between automated vehicles and other road users. In 13th International Conference on Automotive User Interfaces and Interactive Vehicular Applications (pp. 132-136). [https://doi.org/10.1145/3473682.3480280](https://doi.org/10.1145/3473682.3480280).
