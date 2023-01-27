@@ -34,4 +34,4 @@ This proof of concept is a step towards implementation in the next generation of
 </div>
 
 ## Continuation
-Project was continued in TODO.
+Project was continued in [current](/current).
