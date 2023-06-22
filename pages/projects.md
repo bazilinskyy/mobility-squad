@@ -27,7 +27,7 @@ permalink: /projects
               {% else %}
                 {{ site.author.website }}
               {% endif %}
-            ({{ post.year }}).
+              ({{ post.year }}).
               <span class="project-description">{{ post.short }}</span>
           </ul>
         </td>

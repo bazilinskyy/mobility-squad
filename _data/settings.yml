@@ -4,9 +4,9 @@ disqus:
   disqus_shortname: 'mobility-squad'
 
 menu:
-- {name: 'Companies',          url: 'companies'}
 - {name: 'Projects',           url: 'projects'}
 - {name: 'Coaches',            url: 'coaches'}
+- {name: 'Companies',          url: 'companies'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
