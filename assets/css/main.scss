@@ -42,10 +42,19 @@ $rss-color: #ff6600;
     border: 0 solid #000 !important;
 }
 
-.about-people-cell {
+.about-people-image {
     border: 0 solid #000 !important;
     vertical-align: top;
     text-align: center;
+    padding-top: 0px;
+    padding-bottom: 2px;
+}
+
+.about-people-caption {
+    border: 0 solid #000 !important;
+    vertical-align: top;
+    text-align: center;
+    padding-top: 0px;
 }
 
 .about-people-name {
