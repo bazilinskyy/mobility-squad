@@ -24,7 +24,7 @@ permalink: /contact
   </tr>
   <tr>
     <td class="about-people-cell"><a href="https://www.linkedin.com/in/alicia-poels-4bb036186">Alicia Poels</a><br>Squad assistant</td>
-    <td class="about-people-cell"><a href="https://www.linkedin.com/in/shiva-nischal-lingam">Dr. Shiva Nischal Lingam</a><br>PhD student and expert</td>
+    <td class="about-people-cell"><a href="https://www.linkedin.com/in/shiva-nischal-lingam">Shiva Nischal Lingam</a><br>PhD student and expert</td>
     <td class="about-people-cell"><a href="https://www.linkedin.com/in/ruolin-gao-731904163">Ruolin Gao</a><br>PhD student and expert</td>
   </tr>
    <tr>
