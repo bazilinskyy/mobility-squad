@@ -2,8 +2,14 @@
 layout: project
 year: 2020
 title: "Personalisation in AV interior and exterior"
-author: "Nina Bremmers, Eline Renne, Tom Schreurs, Dillon Shieh"
-coach: "Stijn Ossevoort"
+authors:
+  - name: Nina Bremmers
+  - name: Eline Renne
+  - name: Tom Schreurs
+  - name: Dillon Shieh
+coaches:
+  - name: Stijn Ossevoort
+    website: https://www.linkedin.com/in/sostechnologydesign
 categories: project
 company: na
 tags: [automated-driving,interior,exterior,personalisation]

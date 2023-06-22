@@ -2,8 +2,13 @@
 layout: project
 year: 2019
 title: "In-car communication through an infotainment system"
-author: "Anna Herrera Moreu, Victoria Leung, Jop van Aken"
-coach: "Bastian Pfleging"
+authors:
+  - name: Anna Herrera Moreu
+  - name: Victoria Leung
+  - name: Jop van Aken
+coaches:
+  - name: Bastian Pfleging
+    website: https://www.bastian-pfleging.eu
 categories: project
 company: na
 tags: [interior,infotainment]

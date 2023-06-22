@@ -2,8 +2,11 @@
 layout: project
 year: 2020
 title: "Mitigating pedestrian bullying behaviour"
-author: "Joos Kat"
-coach: "Marieke Martens"
+authors:
+  - name: Joos Kat
+coaches:
+  - name: Marieke Martens
+    website: https://research.tue.nl/en/persons/marieke-h-martens
 categories: project
 company: na
 tags: [automated-driving,pedestrians]

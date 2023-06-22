@@ -2,8 +2,11 @@
 layout: project
 year: 2019
 title: "Visions for future public buses"
-author: "Thijs Baselmans"
-coach: "Marieke Martens"
+authors:
+  - name: Thijs Baselmans
+coaches:
+  - name: Marieke Martens
+    website: https://research.tue.nl/en/persons/marieke-h-martens
 categories: project
 company: na
 tags: [public-transport,seat-layout,automated-driving]

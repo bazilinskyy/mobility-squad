@@ -2,8 +2,14 @@
 layout: project
 year: 2020
 title: "Social chairs"
-author: "Eline Bossers, Timon de Groot, Sanne van Lieshout, Kim van Duijnhoven"
-coach: "Stijn Ossevoort"
+authors:
+  - name: Eline Bossers
+  - name: Timon de Groot
+  - name: Sanne van Lieshout
+  - name: Kim van Duijnhoven
+coaches:
+  - name: Stijn Ossevoort
+    website: https://www.linkedin.com/in/sostechnologydesign
 categories: project
 company: na
 tags: [automated-driving,interior,seat-layout]

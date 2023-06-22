@@ -2,8 +2,11 @@
 layout: project
 year: 2020
 title: "OUTERFACE"
-author: "Rutger Verstegen"
-coach: "Bastian Pfleging"
+authors:
+  - name: Rutger Verstegen
+coaches:
+  - name: Bastian Pfleging
+    website: https://www.bastian-pfleging.eu
 categories: project
 company: na
 tags: [automated-driving,ehmi]

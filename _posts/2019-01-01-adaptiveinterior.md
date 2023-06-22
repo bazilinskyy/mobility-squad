@@ -2,8 +2,14 @@
 layout: project
 year: 2019
 title: "Adaptive automotive interior for NDRA in automated vehicles"
-author: "Sander Pieters, Noah Poulssen, Teun Schutten, Jasper Verbruggen"
-coach: "Bastian Pfleging"
+authors:
+  - name: Sander Pieters
+  - name: Noah Poulssen
+  - name: Teun Schutten
+  - name: Jasper Verbruggen
+coaches:
+  - name: Bastian Pfleging
+    website: https://www.bastian-pfleging.eu
 categories: project
 company: na
 tags: [automated-driving,interior]

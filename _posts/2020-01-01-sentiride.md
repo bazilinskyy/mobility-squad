@@ -2,7 +2,8 @@
 layout: project
 year: 2020
 title: "SentiRide"
-author: "Noah Joosse"
+authors:
+  - name: Noah Joosse
 categories: project
 company: Mentech
 tags: [automated-driving,mobile]

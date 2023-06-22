@@ -2,8 +2,13 @@
 layout: project
 year: 2019
 title: "Range anxiety"
-author: "Luc Buijtels, Arnout Ulenberg, Sigi van Lindt"
-coach: "Marieke Martens"
+authors:
+  - name: Luc Buijtels
+  - name: Arnout Ulenberg
+  - name: Sigi van Lindt
+coaches:
+  - name: Marieke Martens
+    website: https://research.tue.nl/en/persons/marieke-h-martens
 categories: project
 company: XYZ Dynamics
 tags: [electric-cars]

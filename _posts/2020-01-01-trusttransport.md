@@ -2,8 +2,13 @@
 layout: project
 year: 2020
 title: "Trust in automated public transportation"
-author: "Lucas Schuiling, Inse van Houts, Boris van Weezenbeek"
-coach: "Bahar Barati"
+authors:
+  - name: Lucas Schuiling
+  - name: Inse van Houts
+  - name: Boris van Weezenbeek
+coaches:
+  - name: Bahar Barati
+    website: https://research.tue.nl/en/persons/bahareh-barati
 categories: project
 company: na
 tags: [automated-driving,trust,public-transport]

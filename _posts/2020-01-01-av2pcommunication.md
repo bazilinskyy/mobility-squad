@@ -2,8 +2,11 @@
 layout: project
 year: 2020
 title: "AV2P communication"
-author: "Tygo Hendricx"
-coach: "Marieke Martens"
+authors:
+  - name: Tygo Hendricx
+coaches:
+  - name: Marieke Martens
+    website: https://research.tue.nl/en/persons/marieke-h-martens
 categories: project
 company: na
 tags: [automated-driving,ehmi,projection]

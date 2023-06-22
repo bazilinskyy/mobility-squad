@@ -2,7 +2,8 @@
 layout: project
 year: 2020
 title: "StekkerTogether"
-author: "Jort Cuijpers"
+authors:
+  - name: Jort Cuijpers
 categories: project
 company: na
 tags: [electric-cars,charging,mobile]

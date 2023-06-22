@@ -2,8 +2,15 @@
 layout: project
 year: 2020
 title: "Shape-changing omnidirectional AVs"
-author: "Jilez Aelbers, Bart Arts, Carlos Bernad Thomas, Max Crutzen, Jesper Kapteijns"
-coach: "Marieke Martens"
+authors:
+  - name: Jilez Aelbers
+  - name: Bart Arts
+  - name: Carlos Bernad Thomas
+  - name: Max Crutzen
+  - name: Jesper Kapteijns
+coaches:
+  - name: Marieke Martens
+    website: https://research.tue.nl/en/persons/marieke-h-martens
 categories: project
 company: na
 tags: [automated-driving,exterior,shape-changing,omnidirectional]

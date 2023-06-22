@@ -1,13 +1,30 @@
 <span class="post-date">
-  {% if page.author %}
-    {{ page.author }}
+  {% if page.authors %}
+    {% for author in page.authors %}
+      <!-- Website present -->
+      {% if author.website %} 
+        <a href="{{ author.website }}">{{ author.name }}</a>{% if forloop.last == false %}, {% endif %}
+      <!-- No website present -->
+      {% else %}
+        {{ author.name }}{% if forloop.last == false %}, {% endif %}
+      {% endif %}
+    {% endfor %}
   {% else %}
-    {{ site.author }}
+    {{ site.author.website }}
   {% endif %} ({{ page.date | date: "%Y" }})
   {% unless page.company == "na" %}
     in cooperation with {{ page.company }}
   {% endunless %}
-  {% if page.coach %}
-     coached by {{ page.coach }}
+  {% if page.coaches %}
+     coached by
+        {% for coach in page.coaches %}
+          <!-- Website present -->
+          {% if coach.website %} 
+            <a href="{{ coach.website }}">{{ coach.name }}</a>{% if forloop.last == false %}, {% endif %}
+          <!-- No website present -->
+          {% else %}
+            {{ coach.name }}{% if forloop.last == false %}, {% endif %}
+          {% endif %}
+        {% endfor %}
   {% endif %}
 </span>

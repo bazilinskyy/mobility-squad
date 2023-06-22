@@ -2,7 +2,8 @@
 layout: project
 year: 2020
 title: "AeroAdaptive"
-author: "Caya Kors"
+authors:
+  - name: Caya Kors
 categories: project
 company: na
 tags: [automated-driving,interior,shape-changing,materials]

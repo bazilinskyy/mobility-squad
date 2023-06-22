@@ -2,8 +2,11 @@
 layout: project
 year: 2020
 title: "Exterior shape-change in automated vehicles"
-author: "Coen de Zeeuw"
-coach: "Miguel Bruns"
+authors:
+  - name: Coen de Zeeuw
+coaches:
+  - name: Miguel Bruns
+    website: https://www.tue.nl/en/research/researchers/miguel-bruns
 categories: project
 company: na
 tags: [automated-driving,shape-changing,exterior,ehmi]

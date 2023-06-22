@@ -2,8 +2,11 @@
 layout: project
 year: 2019
 title: "Interactive AR concepts in VR"
-author: "Niels Post"
-coach: "Bastian Pfleging"
+authors:
+  - name: Niels Post
+coaches:
+  - name: Bastian Pfleging
+    website: https://www.bastian-pfleging.eu
 categories: project
 company: Cerence
 tags: [automated-driving,augumented-reality,virtual-reality]

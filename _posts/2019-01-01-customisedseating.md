@@ -2,8 +2,12 @@
 layout: project
 year: 2019
 title: "Customised seating system"
-author: "Mervyn Franssen"
-coach: "Stijn Ossevoort"
+authors:
+  - name: Mervyn Franssen
+    website: https://www.linkedin.com/in/mervynfranssen
+coaches:
+  - name: Stijn Ossevoort
+    website: https://www.linkedin.com/in/sostechnologydesign
 categories: project
 company: na
 tags: [bus,seat-layout]
