@@ -4,6 +4,8 @@ year: 2020
 title: "SentiRide"
 authors:
   - name: Noah Joosse
+coaches:
+  - name: na
 categories: project
 company: Mentech
 tags: [automated-driving,mobile]

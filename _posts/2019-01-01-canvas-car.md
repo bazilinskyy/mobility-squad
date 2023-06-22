@@ -7,6 +7,8 @@ authors:
   - name: Jort Cuijpers
   - name: Hugo Heller
   - name: Teun Wittenbols
+coaches:
+  - name: na
 categories: project
 company: na
 tags: [automated-driving,seat-layout]

@@ -4,6 +4,8 @@ year: 2020
 title: "Concealable tangible interfaces for automated vehicles’ interior"
 authors:
   - name: Dion Tjokroatmo
+coaches:
+  - name: na
 categories: project
 company: na
 tags: [interior,control]

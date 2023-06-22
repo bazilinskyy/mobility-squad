@@ -4,6 +4,8 @@ year: 2019
 title: "Shapewheel"
 authors:
   - name: Jay Kolvenbag
+coaches:
+  - name: na
 categories: project
 company: na
 tags: [automated-driving,control,steering-wheel,in-vehicle]

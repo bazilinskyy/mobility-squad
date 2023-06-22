@@ -6,6 +6,7 @@ disqus:
 menu:
 - {name: 'Companies',          url: 'companies'}
 - {name: 'Projects',           url: 'projects'}
+- {name: 'Coaches',            url: 'coaches'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
