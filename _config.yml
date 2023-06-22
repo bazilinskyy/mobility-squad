@@ -10,7 +10,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Future Mobility squad of the department of Industrial Design of TU/e"
+title:		           "Future Mobility"
 description:	       "Showcase of the Future Mobility squad of the department of Industrial Design of TU/e"
 author:              "Pavlo Bazilinskyy"
 
