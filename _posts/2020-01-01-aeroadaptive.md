@@ -5,7 +5,8 @@ title: "AeroAdaptive"
 authors:
   - name: Caya Kors
 coaches:
-  - name: na
+  - name: Simone de Waart
+    website: https://research.tue.nl/en/persons/simone-g-de-waart
 categories: project
 company: na
 tags: [automated-driving,interior,shape-changing,materials]

@@ -5,7 +5,8 @@ title: "Concealable tangible interfaces for automated vehicles’ interior"
 authors:
   - name: Dion Tjokroatmo
 coaches:
-  - name: na
+  - name: Simone de Waart
+    website: https://research.tue.nl/en/persons/simone-g-de-waart
 categories: project
 company: na
 tags: [interior,control]
