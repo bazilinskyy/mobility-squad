@@ -152,9 +152,16 @@ h1:hover .octicon, h2:hover .octicon, h3:hover .octicon, h4:hover .octicon, h5:h
   vertical-align: middle;
 }
 
-.anchor{
+.anchor-coach {
   display: block;
   height: 210px; /*same height as header*/
   margin-top: -210px; /*same height as header*/
+  visibility: hidden;
+}
+
+.anchor-project {
+  display: block;
+  height: 55px; /*same height as header*/
+  margin-top: -55px; /*same height as header*/
   visibility: hidden;
 }
