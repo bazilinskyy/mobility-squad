@@ -107,14 +107,9 @@ $rss-color: #ff6600;
 /* Coaches */
 .coaches-coach-caption {
     margin-top: 0px;
-    margin-left: 14px;
+    margin-left: 0px;
     text-align: center;
-}
-
-.coaches-coach-caption-link {
-    padding-left: 14px;
-/*    padding-right: 14px;*/
-    text-align: center;
+    font-weight: normal;
 }
 
 /* Anchor links */
@@ -153,7 +148,7 @@ h1:hover .octicon, h2:hover .octicon, h3:hover .octicon, h4:hover .octicon, h5:h
 .octicon {
   fill: currentColor;
   padding: 0;
-  margin-left: -0px;
+  margin-right: -16px;
   vertical-align: middle;
 }
 
