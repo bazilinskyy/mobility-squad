@@ -15,16 +15,17 @@
   {% unless page.company == "na" %}
     in cooperation with {{ page.company }}
   {% endunless %}
-  {% if page.coaches %}
-     coached by
+  {% if page.coaches and page.coaches[0].name != "na" %}
+    <!-- Add for first item -->
+    coached by
         {% for coach in page.coaches %}
-          <!-- Website present -->
-          {% if coach.website %} 
-            <a href="{{ coach.website }}">{{ coach.name }}</a>{% if forloop.last == false %}, {% endif %}
-          <!-- No website present -->
-          {% else %}
-            {{ coach.name }}{% if forloop.last == false %}, {% endif %}
-          {% endif %}
+            <!-- Website present -->
+            {% if coach.website %} 
+              <a href="{{ coach.website }}">{{ coach.name }}</a>{% if forloop.last == false %}, {% endif %}
+            <!-- No website present -->
+            {% else %}
+              {{ coach.name }}{% if forloop.last == false %}, {% endif %}
+            {% endif %}
         {% endfor %}
   {% endif %}
 </span>
