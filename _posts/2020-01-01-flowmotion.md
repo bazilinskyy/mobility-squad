@@ -11,7 +11,9 @@ coaches:
   - name: Bastian Pfleging
     website: https://www.bastian-pfleging.eu
 categories: project
-company: na
+company:
+  - name: na
+    website: na
 tags: [automated-driving,ehmi,colour,light]
 image: 2020-flowmotion-1.jpg
 short: Communication between automated vehicles and pedestrians by means of liquid. 

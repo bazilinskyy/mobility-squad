@@ -7,7 +7,9 @@ authors:
 coaches:
   - name: na
 categories: project
-company: na
+company:
+  - name: na
+    website: na
 tags: [electric-cars,charging,mobile]
 image: 2020-stekkertogether-1.jpg
 short: Service for sharing electric chargers.

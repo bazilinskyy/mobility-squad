@@ -8,7 +8,9 @@ coaches:
   - name: Bastian Pfleging
     website: https://www.bastian-pfleging.eu
 categories: project
-company: na
+company:
+  - name: na
+    website: na
 tags: [automated-driving,ehmi]
 image: 2020-outerface-1.jpg
 short: A 360-degree rooftop interface to communicate to let automated vehicles communicate to the outside.

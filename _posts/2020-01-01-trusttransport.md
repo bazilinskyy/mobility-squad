@@ -10,7 +10,9 @@ coaches:
   - name: Bahar Barati
     website: https://research.tue.nl/en/persons/bahareh-barati
 categories: project
-company: na
+company:
+  - name: na
+    website: na
 tags: [automated-driving,trust,public-transport]
 image: 2020-trusttransport-1.jpg
 short: Exploration or effects of transparency of system's actions on passenger's trust.

@@ -8,7 +8,9 @@ coaches:
   - name: Stijn Ossevoort
     website: https://www.linkedin.com/in/sostechnologydesign
 categories: project
-company: na
+company:
+  - name: na
+    website: na
 tags: [exterior,automated-driving,smartwatch,ehmi]
 image: 2020-pedesrianavsmartwatch-1.jpg
 short: Using a smartwatch as means of pedestrian-AV communication.

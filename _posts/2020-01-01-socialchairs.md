@@ -11,7 +11,9 @@ coaches:
   - name: Stijn Ossevoort
     website: https://www.linkedin.com/in/sostechnologydesign
 categories: project
-company: na
+company:
+  - name: na
+    website: na
 tags: [automated-driving,interior,seat-layout]
 image: 2020-socialchairs-1.jpg
 short: An interior that can change shape to allow more freedom and flexibility.

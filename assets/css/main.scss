@@ -103,3 +103,63 @@ $rss-color: #ff6600;
 .project-thumbnail {
     max-width: 150px;
 }
+
+/* Coaches */
+.coaches-coach-caption {
+    margin-top: 0px;
+    margin-left: 14px;
+    text-align: center;
+}
+
+.coaches-coach-caption-link {
+    padding-left: 14px;
+/*    padding-right: 14px;*/
+    text-align: center;
+}
+
+/* Anchor links */
+/*h1 {
+  text-indent: -12px;
+}
+
+h2 {
+  text-indent: -10px;
+}
+
+h3 {
+  text-indent: -8px;
+}
+
+h4 {
+  text-indent: -6px;
+}
+
+h5 {
+  text-indent: -4px;
+}
+
+h6 {
+  text-indent: -2px;
+}*/
+
+h1 .octicon, h2 .octicon, h3 .octicon, h4 .octicon, h5 .octicon, h6 .octicon  {
+  visibility: hidden;
+}
+
+h1:hover .octicon, h2:hover .octicon, h3:hover .octicon, h4:hover .octicon, h5:hover .octicon, h6:hover .octicon {
+  visibility: visible;
+}
+
+.octicon {
+  fill: currentColor;
+  padding: 0;
+  margin-left: -0px;
+  vertical-align: middle;
+}
+
+.anchor{
+  display: block;
+  height: 210px; /*same height as header*/
+  margin-top: -210px; /*same height as header*/
+  visibility: hidden;
+}

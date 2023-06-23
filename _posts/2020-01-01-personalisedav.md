@@ -11,7 +11,9 @@ coaches:
   - name: Stijn Ossevoort
     website: https://www.linkedin.com/in/sostechnologydesign
 categories: project
-company: na
+company:
+  - name: na
+    website: na
 tags: [automated-driving,interior,exterior,personalisation]
 image: 2020-personalisedav-1.jpg
 short: Personalised exterior and interior of an automated vehicle.

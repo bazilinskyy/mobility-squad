@@ -8,7 +8,9 @@ coaches:
   - name: Marieke Martens
     website: https://research.tue.nl/en/persons/marieke-h-martens
 categories: project
-company: na
+company:
+  - name: na
+    website: na
 tags: [public-transport,seat-layout,automated-driving]
 image: 2019-futurebus-1.jpg
 short: New furniture and layouts that allow for a wider range of seating options.

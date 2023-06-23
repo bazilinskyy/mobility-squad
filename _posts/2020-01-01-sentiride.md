@@ -7,7 +7,9 @@ authors:
 coaches:
   - name: na
 categories: project
-company: Mentech
+company:
+  - name: Mentech
+    website: https://mentechinnovation.eu
 tags: [automated-driving,mobile]
 image: 2020-sentiride-1.jpg
 short: Affective technology for driver behavior change.

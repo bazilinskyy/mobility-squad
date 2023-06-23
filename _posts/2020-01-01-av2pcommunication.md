@@ -8,7 +8,9 @@ coaches:
   - name: Marieke Martens
     website: https://research.tue.nl/en/persons/marieke-h-martens
 categories: project
-company: na
+company:
+  - name: na
+    website: na
 tags: [automated-driving,ehmi,projection]
 image: 2020-av2pcommunication-1.jpg
 short: Projection-based communication to allow pedestrians to cross.

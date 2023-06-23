@@ -8,7 +8,9 @@ coaches:
   - name: Marieke Martens
     website: https://research.tue.nl/en/persons/marieke-h-martens
 categories: project
-company: na
+company:
+  - name: na
+    website: na
 tags: [automated-driving,pedestrians]
 image: 2020-pedestrianbully-1.jpg
 short: Mitigation of bullying behaviuour of pedestrians in future traffic.

@@ -12,7 +12,9 @@ coaches:
   - name: Marieke Martens
     website: https://research.tue.nl/en/persons/marieke-h-martens
 categories: project
-company: na
+company:
+  - name: na
+    website: na
 tags: [automated-driving,exterior,shape-changing,omnidirectional]
 image: 2020-shapechangingav-1.jpg
 short: Different directions of communication for future automated vehicles.

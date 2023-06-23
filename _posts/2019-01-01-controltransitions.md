@@ -9,7 +9,9 @@ coaches:
   - name: Marieke Martens
     website: https://research.tue.nl/en/persons/marieke-h-martens
 categories: project
-company: na
+company:
+  - name: na
+    website: na
 tags: [automated-driving,control]
 image: 2019-controltransitions-1.jpg
 short: Designing an interface to improve transitioning vehicle control from computer to human.

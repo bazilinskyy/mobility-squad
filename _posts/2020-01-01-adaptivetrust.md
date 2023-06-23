@@ -8,7 +8,9 @@ coaches:
   - name: Marieke Martens
     website: https://research.tue.nl/en/persons/marieke-h-martens
 categories: project
-company: na
+company:
+  - name: na
+    website: na
 tags: [trust,automated-driving,head-up-display]
 image: 2020-adaptivetrust-1.jpg
 short: A head-up display that creates a healthy level of trust.

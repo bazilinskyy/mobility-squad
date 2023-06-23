@@ -11,7 +11,9 @@ coaches:
   - name: Bastian Pfleging
     website: https://www.bastian-pfleging.eu
 categories: project
-company: na
+company:
+  - name: na
+    website: na
 tags: [automated-driving,interior]
 image: 2019-adaptiveinterior-1.jpg
 short: This project investigated office workers’ desires for Non-Driving-Related Activities during their commute in self-driving cars.

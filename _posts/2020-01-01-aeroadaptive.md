@@ -8,7 +8,9 @@ coaches:
   - name: Simone de Waart
     website: https://research.tue.nl/en/persons/simone-g-de-waart
 categories: project
-company: na
+company:
+  - name: na
+    website: na
 tags: [automated-driving,interior,shape-changing,materials]
 image: 2020-aeroadaptive-1.jpg
 short: An interior that can change shape to allow more freedom and flexibility.

@@ -10,7 +10,9 @@ authors:
 coaches:
   - name: na
 categories: project
-company: na
+company:
+  - name: na
+    website: na
 tags: [automated-driving,seat-layout]
 image: 2019-canvas-car-1.jpg
 short: Flexible and adaptable interior layout of the personal car.

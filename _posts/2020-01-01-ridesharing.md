@@ -8,7 +8,9 @@ coaches:
   - name: Bastian Pfleging
     website: https://www.bastian-pfleging.eu
 categories: project
-company: na
+company:
+  - name: na
+    website: na
 tags: [automated-driving,car-sharing]
 image: 2020-ridesharing-1.jpg
 short: First class ride sharing with automated vehicles.

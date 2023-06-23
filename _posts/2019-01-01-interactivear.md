@@ -8,7 +8,9 @@ coaches:
   - name: Bastian Pfleging
     website: https://www.bastian-pfleging.eu
 categories: project
-company: Cerence
+company:
+  - name: Cerence
+    website: https://www.cerence.com
 tags: [automated-driving,augumented-reality,virtual-reality]
 image: 2019-interactivear-1.jpg
 short: Testing augumented reality concepts in virtual reality.

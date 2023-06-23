@@ -8,7 +8,9 @@ coaches:
   - name: Bastian Pfleging
     website: https://www.bastian-pfleging.eu
 categories: project
-company: na
+company:
+  - name: na
+    website: na
 tags: [automated-driving,tor,control]
 image: 2020-humanautonomy-1.jpg
 short: Physically facilitating the transition of control in level 3 automated vehicles.

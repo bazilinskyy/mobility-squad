@@ -8,7 +8,9 @@ coaches:
   - name: Simone de Waart
     website: https://research.tue.nl/en/persons/simone-g-de-waart
 categories: project
-company: na
+company:
+  - name: na
+    website: na
 tags: [interior,control]
 image: 2020-tangibleinterfaces-1.jpg
 short: Interface to change temperature and music without a screen.

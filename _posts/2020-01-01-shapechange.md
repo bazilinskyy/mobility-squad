@@ -8,7 +8,9 @@ coaches:
   - name: Miguel Bruns
     website: https://www.tue.nl/en/research/researchers/miguel-bruns
 categories: project
-company: na
+company:
+  - name: na
+    website: na
 tags: [automated-driving,shape-changing,exterior,ehmi]
 image: 2020-shapechange-1.jpg
 short: Exterior shape-change in automated vehicles for communicating with road users.

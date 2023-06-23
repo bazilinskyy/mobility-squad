@@ -3,18 +3,17 @@ layout: page
 title: Companies
 permalink: /companies
 ---
-
 {% assign companies = site.posts | group_by: "company" %}
-{% assign companiesSorted = companies | sort: "name" %}
+{% assign companiesSorted = companies | sort: "company" %}
 <table class="project-table">
   <tbody>
     {% for company in companiesSorted %}
-      {% if company.name == "na" %}
+      {% if company.items[0].company[0].name == "na" %}
           {% continue %}
       {% endif %}
       <tr>
         <td class="project-cell-left">
-          <img src="{{ site.github.url }}/assets/img/companies/{{ company.name | downcase }}.jpg" class="company-logo"/>
+          <a href="{{ company.items[0].company[0].website }}" target="_blank"><img src="{{ site.github.url }}/assets/img/companies/{{ company.items[0].company[0].name | downcase }}.jpg" class="company-logo"/></a>
         </td>
         <td class="project-cell-right">
         {% assign yearTitlesSorted = company.items | sort: "year" %}

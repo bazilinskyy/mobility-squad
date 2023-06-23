@@ -10,7 +10,9 @@ coaches:
   - name: Bastian Pfleging
     website: https://www.bastian-pfleging.eu
 categories: project
-company: na
+company:
+  - name: na
+    website: na
 tags: [interior,infotainment]
 image: 2019-infotainmentcommunication-1.jpg
 short: Infotainment systems to enhance communication between back seat and front seat passengers.

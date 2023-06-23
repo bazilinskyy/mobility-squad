@@ -10,7 +10,9 @@ coaches:
   - name: Marieke Martens
     website: https://research.tue.nl/en/persons/marieke-h-martens
 categories: project
-company: XYZ Dynamics
+company:
+  - name: XYZ Dynamics
+    website: https://www.xyzdynamics.nl
 tags: [electric-cars]
 image: 2019-rangeanxiety-1.jpg
 short: Showing range of a vehicle to reduce stress.
