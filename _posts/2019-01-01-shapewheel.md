@@ -5,7 +5,8 @@ title: "Shapewheel"
 authors:
   - name: Jay Kolvenbag
 coaches:
-  - name: na
+  - name: Miguel Bruns
+    website: https://www.tue.nl/en/research/researchers/miguel-bruns
 categories: project
 company:
   - name: na

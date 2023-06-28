@@ -12,8 +12,8 @@
   {% else %}
     {{ site.author.website }}
   {% endif %} ({{ page.date | date: "%Y" }})
-  {% unless page.company == "na" %}
-    in cooperation with <a href="{{ page.company-website | downcase }}" target="_blank">{{ page.company-name }}</a>
+  {% unless page.company[0].name == "na" %}
+    in cooperation with <a href="{{ page.company[0].website | downcase }}" target="_blank">{{ page.company[0].name }}</a>
   {% endunless %}
   {% if page.coaches and page.coaches[0].name != "na" %}
     <!-- Add for first item -->
