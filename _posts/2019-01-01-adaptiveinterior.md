@@ -4,9 +4,13 @@ year: 2019
 title: "Adaptive automotive interior for NDRA in automated vehicles"
 authors:
   - name: Sander Pieters
+    website: https://www.linkedin.com/in/sander-pieters-2310b8164/
   - name: Noah Poulssen
+    website: https://www.linkedin.com/in/noah-poulssen-8753411aa/
   - name: Teun Schutten
+    website: https://www.linkedin.com/in/teun-schutten-594696242/
   - name: Jasper Verbruggen
+    website: https://www.linkedin.com/in/j-j-verbruggen/
 coaches:
   - name: Bastian Pfleging
     website: https://www.bastian-pfleging.eu

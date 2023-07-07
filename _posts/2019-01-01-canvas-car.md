@@ -5,8 +5,11 @@ title: "Canvas Car"
 authors:
   - name: Hin Chan
   - name: Jort Cuijpers
+    website: https://www.linkedin.com/in/jort-cuijpers-758b721b1/?originalSubdomain=nl
   - name: Hugo Heller
+    website: https://www.linkedin.com/in/hugo-heller-a94a01237/
   - name: Teun Wittenbols
+    website: https://www.linkedin.com/in/teun-wittenbols-93b009196/
 coaches:
   - name: na
 categories: project

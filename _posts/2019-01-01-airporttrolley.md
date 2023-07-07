@@ -4,8 +4,10 @@ year: 2019
 title: "The airport trolley"
 authors:
   - name: Tommaso Braceschi
+    website: https://www.linkedin.com/in/tommaso-braceschi-2b0477177/
   - name: Mireille Lee
   - name: Joep Jan Meerdink
+    website: https://www.linkedin.com/in/joep-jan-meerdink/
 coaches:
   - name: Stijn Ossevoort
     website: https://www.linkedin.com/in/sostechnologydesign

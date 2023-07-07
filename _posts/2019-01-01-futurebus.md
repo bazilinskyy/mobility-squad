@@ -4,6 +4,7 @@ year: 2019
 title: "Visions for future public buses"
 authors:
   - name: Thijs Baselmans
+    website: https://www.linkedin.com/in/thijsbaselmans/
 coaches:
   - name: Marieke Martens
     website: https://research.tue.nl/en/persons/marieke-h-martens

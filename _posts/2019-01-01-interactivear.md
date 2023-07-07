@@ -4,6 +4,7 @@ year: 2019
 title: "Interactive AR concepts in VR"
 authors:
   - name: Niels Post
+    website: https://www.linkedin.com/in/nielsposts/
 coaches:
   - name: Bastian Pfleging
     website: https://www.bastian-pfleging.eu

@@ -4,8 +4,10 @@ year: 2019
 title: "In-car communication through an infotainment system"
 authors:
   - name: Anna Herrera Moreu
+    website: https://www.linkedin.com/in/anna-herrera-moreu-444a40178/?originalSubdomain=es
   - name: Victoria Leung
   - name: Jop van Aken
+    website: https://www.linkedin.com/in/jop-van-aken-7550ba198/?originalSubdomain=nl
 coaches:
   - name: Bastian Pfleging
     website: https://www.bastian-pfleging.eu

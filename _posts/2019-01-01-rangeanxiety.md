@@ -4,8 +4,11 @@ year: 2019
 title: "Range anxiety"
 authors:
   - name: Luc Buijtels
+    website: https://www.linkedin.com/in/luc-buijtels/
   - name: Arnout Ulenberg
+    website: https://www.linkedin.com/in/arnout-ulenberg/
   - name: Sigi van Lindt
+    website: https://www.linkedin.com/in/sigidesign/
 coaches:
   - name: Marieke Martens
     website: https://research.tue.nl/en/persons/marieke-h-martens
