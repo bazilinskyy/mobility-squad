@@ -4,6 +4,7 @@ year: 2020
 title: "AV2P communication"
 authors:
   - name: Tygo Hendricx
+    website: https://www.linkedin.com/in/tygo-hendricx-5842a1172/
 coaches:
   - name: Marieke Martens
     website: https://research.tue.nl/en/persons/marieke-h-martens

@@ -4,6 +4,7 @@ year: 2020
 title: "Operator's adaptive calibration of trust in automated vehicles"
 authors:
   - name: Rosanne de Feyter
+    website: https://www.linkedin.com/in/rosanne-de-feyter-40104a192/
 coaches:
   - name: Marieke Martens
     website: https://research.tue.nl/en/persons/marieke-h-martens

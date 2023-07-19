@@ -4,6 +4,7 @@ year: 2019
 title: "Shapewheel"
 authors:
   - name: Jay Kolvenbag
+    website: https://www.linkedin.com/in/jay-kolvenbag-b2ba21199/
 coaches:
   - name: Miguel Bruns
     website: https://www.tue.nl/en/research/researchers/miguel-bruns

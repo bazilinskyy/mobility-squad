@@ -4,6 +4,7 @@ year: 2020
 title: "AeroAdaptive"
 authors:
   - name: Caya Kors
+    website: https://www.linkedin.com/in/cayakors/
 coaches:
   - name: Simone de Waart
     website: https://research.tue.nl/en/persons/simone-g-de-waart
