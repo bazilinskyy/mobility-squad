@@ -4,13 +4,13 @@ year: 2023
 title: "Malfunction communication of drones"
 authors:
   - name: Constanze Bachg
-    website: 
+    website: https://www.linkedin.com/in/constanze-bachg-71b354193/?originalSubdomain=au
   - name: Thijs van Diemen
-    website: 
+    website: https://www.linkedin.com/in/thijs-van-diemen-288146243/
   - name: Dennis Roggeveen
-    website: 
+    website: https://www.linkedin.com/in/dennis-roggeveen-41774422b/?originalSubdomain=nl
   - name: William Yen
-    website: 
+    website: https://www.linkedin.com/in/william-yen-1029bb28a/
 coaches:
   - name: Mendel Broekhuijsen
     website: https://www.mendeldesign.nl
