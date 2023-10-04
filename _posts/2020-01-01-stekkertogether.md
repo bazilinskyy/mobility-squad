@@ -4,6 +4,7 @@ year: 2020
 title: "StekkerTogether"
 authors:
   - name: Jort Cuijpers
+    website: https://www.linkedin.com/in/jort-cuijpers-758b721b1/?originalSubdomain=nl
 coaches:
   - name: na
 categories: project
