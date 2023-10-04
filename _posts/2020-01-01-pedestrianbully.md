@@ -4,6 +4,7 @@ year: 2020
 title: "Mitigating pedestrian bullying behaviour"
 authors:
   - name: Joos Kat
+    website: https://www.linkedin.com/in/joos-kat-ab62a8212/?originalSubdomain=nl
 coaches:
   - name: Marieke Martens
     website: https://research.tue.nl/en/persons/marieke-h-martens
