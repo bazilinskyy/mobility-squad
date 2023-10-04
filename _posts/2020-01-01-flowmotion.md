@@ -4,9 +4,13 @@ year: 2020
 title: "Flowmotion"
 authors:
   - name: Daan Sonnemans
+    website: https://www.daansonnemans.nl
   - name: Brent Temmink
+    website: https://scholar.google.com/citations?user=E5NuxsYAAAAJ&hl=en
   - name: Karijn Teuling
+    website: https://www.linkedin.com/in/karijn-den-teuling-999389166/?originalSubdomain=nl
   - name: Lotte van Berkel
+    website: https://www.linkedin.com/in/lottevanberkel/
 coaches:
   - name: Bastian Pfleging
     website: https://www.bastian-pfleging.eu
