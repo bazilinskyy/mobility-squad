@@ -4,10 +4,15 @@ year: 2020
 title: "Shape-changing omnidirectional AVs"
 authors:
   - name: Jilez Aelbers
+    website: https://www.linkedin.com/in/jilez-aelbers-38b670158/?originalSubdomain=nl
   - name: Bart Arts
+    website: https://www.linkedin.com/in/bartarts/?originalSubdomain=nl
   - name: Carlos Bernad Thomas
+    website: https://www.linkedin.com/in/carlos-bernad-thomas-7793291ab/?trk=public_profile_browsemap&originalSubdomain=es
   - name: Max Crutzen
+    website: https://maxcrutzen.com
   - name: Jesper Kapteijns
+    website: https://www.linkedin.com/in/jesper-kapteijns-9079301b2/?originalSubdomain=nl
 coaches:
   - name: Marieke Martens
     website: https://research.tue.nl/en/persons/marieke-h-martens
