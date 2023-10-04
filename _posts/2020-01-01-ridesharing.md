@@ -4,6 +4,7 @@ year: 2020
 title: "First class ride sharing"
 authors:
   - name: Luuk Faber
+    website: https://www.linkedin.com/in/luuk-faber-42989b232/?originalSubdomain=nl
 coaches:
   - name: Bastian Pfleging
     website: https://www.bastian-pfleging.eu
