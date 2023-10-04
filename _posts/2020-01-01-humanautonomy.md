@@ -4,6 +4,7 @@ year: 2020
 title: "Maintaining Human Autonomy during the Transition of Control"
 authors:
   - name: Benno Thijs
+    website: https://www.linkedin.com/in/benno-thijs-3433a2143/?originalSubdomain=nl
 coaches:
   - name: Bastian Pfleging
     website: https://www.bastian-pfleging.eu
