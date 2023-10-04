@@ -4,9 +4,13 @@ year: 2020
 title: "Personalisation in AV interior and exterior"
 authors:
   - name: Nina Bremmers
+    website: https://www.linkedin.com/in/nina-bremmers-47a56b7a/?originalSubdomain=nl
   - name: Eline Renne
+    website: https://www.linkedin.com/in/eline-renne/?originalSubdomain=nl
   - name: Tom Schreurs
+    website: https://www.linkedin.com/in/ttp-schreurs/
   - name: Dillon Shieh
+    website: https://www.dillonshieh.com
 coaches:
   - name: Stijn Ossevoort
     website: https://www.linkedin.com/in/sostechnologydesign
