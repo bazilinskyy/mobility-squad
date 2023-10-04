@@ -4,6 +4,7 @@ year: 2020
 title: "Exterior shape-change in automated vehicles"
 authors:
   - name: Coen de Zeeuw
+    website: https://www.linkedin.com/in/coendezeeuw/?originalSubdomain=nl
 coaches:
   - name: Miguel Bruns
     website: https://www.tue.nl/en/research/researchers/miguel-bruns
