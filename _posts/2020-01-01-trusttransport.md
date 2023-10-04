@@ -4,8 +4,11 @@ year: 2020
 title: "Trust in automated public transportation"
 authors:
   - name: Lucas Schuiling
+    website: https://www.linkedin.com/in/lucasschuiling/?originalSubdomain=nl
   - name: Inse van Houts
+    website: https://www.linkedin.com/in/inse-van-houts-1b3427124/?originalSubdomain=nl
   - name: Boris van Weezenbeek
+    website: https://www.linkedin.com/in/boris-van-weezenbeek-306600181/?originalSubdomain=nl
 coaches:
   - name: Bahar Barati
     website: https://research.tue.nl/en/persons/bahareh-barati
