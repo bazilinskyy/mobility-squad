@@ -4,6 +4,7 @@ year: 2020
 title: "OUTERFACE"
 authors:
   - name: Rutger Verstegen
+    website: https://rutgerverstegen.nl
 coaches:
   - name: Bastian Pfleging
     website: https://www.bastian-pfleging.eu
