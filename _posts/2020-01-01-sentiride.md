@@ -4,6 +4,7 @@ year: 2020
 title: "SentiRide"
 authors:
   - name: Noah Joosse
+    website: https://www.linkedin.com/in/noah-hartkamp-joosse-424470168/?originalSubdomain=nl
 coaches:
   - name: na
 categories: project
