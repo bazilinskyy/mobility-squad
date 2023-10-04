@@ -4,6 +4,7 @@ year: 2020
 title: "Smartwatch for a scalable pedestrian-AV interaction"
 authors:
   - name: Moos van der Bijl
+    website: https://www.linkedin.com/in/moos-van-der-bijl-85115220a/?originalSubdomain=nl
 coaches:
   - name: Stijn Ossevoort
     website: https://www.linkedin.com/in/sostechnologydesign
