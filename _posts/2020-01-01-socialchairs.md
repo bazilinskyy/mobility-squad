@@ -4,9 +4,13 @@ year: 2020
 title: "Social chairs"
 authors:
   - name: Eline Bossers
+    website: https://www.linkedin.com/in/eline-bossers-a119791bb/?originalSubdomain=nl
   - name: Timon de Groot
+    website: https://www.linkedin.com/in/timon-de-groot-5b063b69/?originalSubdomain=nl
   - name: Sanne van Lieshout
+    website: https://sannenoavanlieshout.nl
   - name: Kim van Duijnhoven
+    website: https://www.linkedin.com/in/kim-van-duijnhoven-2b9b82209/?originalSubdomain=nl
 coaches:
   - name: Stijn Ossevoort
     website: https://www.linkedin.com/in/sostechnologydesign
