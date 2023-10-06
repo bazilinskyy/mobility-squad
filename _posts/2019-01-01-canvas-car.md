@@ -4,6 +4,7 @@ year: 2019
 title: "Canvas Car"
 authors:
   - name: Hin Chan
+    website: https://www.linkedin.com/in/hung-hin-chan/?originalSubdomain=au
   - name: Jort Cuijpers
     website: https://www.linkedin.com/in/jort-cuijpers-758b721b1/?originalSubdomain=nl
   - name: Hugo Heller
