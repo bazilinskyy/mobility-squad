@@ -6,6 +6,7 @@ authors:
   - name: Anna Herrera Moreu
     website: https://www.linkedin.com/in/anna-herrera-moreu-444a40178/?originalSubdomain=es
   - name: Victoria Leung
+    website: https://www.linkedin.com/in/leungvictoriagrace/
   - name: Jop van Aken
     website: https://www.linkedin.com/in/jop-van-aken-7550ba198/?originalSubdomain=nl
 coaches:
