@@ -6,6 +6,7 @@ authors:
   - name: Tommaso Braceschi
     website: https://www.linkedin.com/in/tommaso-braceschi-2b0477177/
   - name: Mireille Lee
+    website: https://www.linkedin.com/in/mireillelje/?originalSubdomain=sg
   - name: Joep Jan Meerdink
     website: https://www.linkedin.com/in/joep-jan-meerdink/
 coaches:
