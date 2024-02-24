@@ -14,6 +14,8 @@ authors:
 coaches:
   - name: Mendel Broekhuijsen
     website: https://www.mendeldesign.nl
+  - name: Nischal Lingam
+    website: https://www.linkedin.com/in/shiva-nischal-lingam
 categories: project
 company:
   - name: na
