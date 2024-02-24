@@ -18,7 +18,7 @@ categories: project
 company:
   - name: na
     website: na
-tags: [drones,interaction,malfunction]
+tags: [drone,interaction,malfunction]
 image: 2023-malfunctiondrone-1.jpg
 short: Alert system to warn people of malfunctioning drones.
 ---
