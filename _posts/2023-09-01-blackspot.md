@@ -27,5 +27,5 @@ Inattention is a serious threat to road safety. In traffic, there are intersecti
   <img src="/assets/img/2023-blackspot-3.jpg">
 </div>
 
-<!-- ## Video
-<iframe style="display:inline-block; border:0px solid #FFF; width: 100%; height: 358px" src="https://www.youtube.com/embed/gvoY_bMKeCk?playlist=gvoY_bMKeCk&loop=1&autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe> -->
+## Video
+<iframe style="display:inline-block; border:0px solid #FFF; width: 100%; height: 358px" src="https://www.youtube.com/embed/SLYZounjcSI?playlist=SLYZounjcSI&loop=1&autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>

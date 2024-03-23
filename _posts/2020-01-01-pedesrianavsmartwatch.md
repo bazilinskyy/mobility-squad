@@ -35,5 +35,5 @@ Therefore I dove into the subject of scalable interaction between AV and pedestr
 </div>
 
 ## Video demo
-<iframe style="display:inline-block; border:0px solid #FFF; width: 100%; height: 358px" src="https://www.youtube.com/embed/qSzafiCF9mw?playlist=qSzafiCF9mw&loop=1&autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>
+<iframe style="display:inline-block; border:0px solid #FFF; width: 100%; height: 358px" src="https://www.youtube.com/embed/fr7pTEFpY38?playlist=fr7pTEFpY38&loop=1&autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>
 

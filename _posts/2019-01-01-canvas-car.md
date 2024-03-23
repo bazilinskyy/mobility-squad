@@ -44,4 +44,4 @@ This report is an image-focused review of Project X. We, as part of the Adaptive
 </div>
 
 ## Video demo
-<iframe style="display:inline-block; border:0px solid #FFF; width: 100%; height: 358px" src="https://www.youtube.com/embed/rmzae0UAStQ?playlist=rmzae0UAStQ&loop=1&autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>
+<iframe style="display:inline-block; border:0px solid #FFF; width: 100%; height: 358px" src="https://www.youtube.com/embed/nA9QjEp1UxI?playlist=nA9QjEp1UxI&loop=1&autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>
