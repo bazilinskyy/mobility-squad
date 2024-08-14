@@ -8,14 +8,14 @@ permalink: /contact
 <table class="about-people-table">
 <tbody>
   <tr>
+    <td class="about-people-image"><img src="/assets/img/people/pavlo-bazilinskyy.jpg" class="about-person"></td>
     <td class="about-people-image"><img src="/assets/img/people/mendel-broekhuijsen.jpg" class="about-person"></td>
     <td class="about-people-image"><img src="/assets/img/people/marieke-martens.jpg" class="about-person"></td>
-    <td class="about-people-image"><img src="/assets/img/people/pavlo-bazilinskyy.jpg" class="about-person"></td>
   </tr>
   <tr>
-    <td class="about-people-caption"><a href="https://www.linkedin.com/in/mendelbroekhuijsen">Dr. ir. Mendel Broekhuijsen</a><br>Squad leader and coach</td>
+    <td class="about-people-caption"><a href="https://bazilinskyy.github.io">Dr. Pavlo Bazilinskyy</a><br>Squad leader and coach</td>
+    <td class="about-people-caption"><a href="https://www.linkedin.com/in/mendelbroekhuijsen">Dr. ir. Mendel Broekhuijsen</a><br>Coach</td>
     <td class="about-people-caption"><a href="https://www.linkedin.com/in/marieke-martens-30892610">Prof. dr. Marieke Martens</a><br>Coach</td>
-    <td class="about-people-caption"><a href="https://bazilinskyy.github.io">Dr. Pavlo Bazilinskyy</a><br>Coach</td>
   </tr>
   <tr>
     <td class="about-people-image"><img src="/assets/img/people/david-frenkel.jpg" class="about-person"></td>
