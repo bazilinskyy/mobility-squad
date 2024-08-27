@@ -18,12 +18,12 @@ permalink: /contact
     <td class="about-people-caption"><a href="https://www.linkedin.com/in/marieke-martens-30892610">Prof. dr. Marieke Martens</a><br>Coach</td>
   </tr>
   <tr>
-    <td class="about-people-image"><img src="/assets/img/people/david-frenkel.jpg" class="about-person"></td>
+    <td class="about-people-image"><img src="/assets/img/people/aloysia-prakoso.jpg" class="about-person"></td>
     <td class="about-people-image"><img src="/assets/img/people/nischal-lingam.jpg" class="about-person"></td>
     <td class="about-people-image"><img src="/assets/img/people/ruolin-gao.jpg" class="about-person"></td>
   </tr>
   <tr>
-    <td class="about-people-caption"><a href="https://www.linkedin.com/in/david-frenkel-0616a81a7">David Frenkel</a><br>Squad assistant</td>
+    <td class="about-people-caption"><a href="https://www.linkedin.com/in/aloysia-prakoso-11779025a">Aloysia Prakoso</a><br>Squad assistant</td>
     <td class="about-people-caption"><a href="https://www.linkedin.com/in/shiva-nischal-lingam">Nischal Lingam</a><br>PhD student and expert</td>
     <td class="about-people-caption"><a href="https://www.linkedin.com/in/ruolin-gao-731904163">Ruolin Gao</a><br>PhD student and expert</td>
   </tr>
@@ -55,12 +55,12 @@ permalink: /contact
   </tr>
   <tr>
     <td class="about-people-image"><img src="/assets/img/people/tadhg-mccarthy.jpg" class="about-person"></td>
-    <td class="about-people-image"><img src="/assets/img/people/white.jpg" class="about-person"></td>
+     <td class="about-people-image"><img src="/assets/img/people/david-frenkel.jpg" class="about-person"></td>
     <td class="about-people-image"><img src="/assets/img/people/white.jpg" class="about-person"></td>
   </tr>
   <tr>
     <td class="about-people-caption"><a href="https://www.tadhg.co.za">Tadhg McCarthy</a><br>Squad assistant</td>
-    <td class="about-people-caption"></td>
+    <td class="about-people-caption"><a href="https://www.linkedin.com/in/david-frenkel-0616a81a7">David Frenkel</a><br>Squad assistant</td>
     <td class="about-people-caption"></td>
   </tr>
 </tbody>
