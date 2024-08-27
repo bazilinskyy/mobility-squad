@@ -24,8 +24,8 @@ permalink: /contact
   </tr>
   <tr>
     <td class="about-people-caption"><a href="https://www.linkedin.com/in/aloysia-prakoso-11779025a">Aloysia Prakoso</a><br>Squad assistant</td>
-    <td class="about-people-caption"><a href="https://www.linkedin.com/in/shiva-nischal-lingam">Nischal Lingam</a><br>PhD student and expert</td>
-    <td class="about-people-caption"><a href="https://www.linkedin.com/in/ruolin-gao-731904163">Ruolin Gao</a><br>PhD student and expert</td>
+    <td class="about-people-caption"><a href="https://www.linkedin.com/in/shiva-nischal-lingam">Nischal Lingam</a><br>PhD candidate and expert</td>
+    <td class="about-people-caption"><a href="https://www.linkedin.com/in/ruolin-gao-731904163">Ruolin Gao</a><br>PhD candidate and expert</td>
   </tr>
    <tr>
     <td class="about-people-image"><img src="/assets/img/people/haoyu-dong.jpg" class="about-person"></td>
@@ -33,9 +33,19 @@ permalink: /contact
     <td class="about-people-image"><img src="/assets/img/people/shadab-alam.jpg" class="about-person"></td>
   </tr>
   <tr>
-    <td class="about-people-caption"><a href="https://www.linkedin.com/in/haoyudong">Haoyu Dong</a><br>PhD student and expert</td>
-    <td class="about-people-caption"><a href="https://www.linkedin.com/in/mervynfranssen">Mervyn Franssen</a><br>PhD student and expert</td>
-    <td class="about-people-caption"><a href="https://www.linkedin.com/in/md-shadab-alam-03b8251aa">Shadab Alam</a><br>PhD student and expert</td>
+    <td class="about-people-caption"><a href="https://www.linkedin.com/in/haoyudong">Haoyu Dong</a><br>PhD candidate and expert</td>
+    <td class="about-people-caption"><a href="https://www.linkedin.com/in/mervynfranssen">Mervyn Franssen</a><br>PhD candidate and expert</td>
+    <td class="about-people-caption"><a href="https://www.linkedin.com/in/md-shadab-alam-03b8251aa">Shadab Alam</a><br>PhD candidate and expert</td>
+  </tr>
+  <tr>
+    <td class="about-people-image"><img src="/assets/img/people/rutger-verstegen.jpg" class="about-person"></td>
+    <td class="about-people-image"><img src="/assets/img/people/white.jpg" class="about-person"></td>
+    <td class="about-people-image"><img src="/assets/img/people/white.jpg" class="about-person"></td>
+  </tr>
+  <tr>
+    <td class="about-people-caption"><a href="https://www.linkedin.com/in/rutger-verstegen">Rutger Verstegen</a><br>PhD candidate and expert</td>
+    <td class="about-people-caption"></td>
+    <td class="about-people-caption"></td>
   </tr>
 </tbody>
 </table>
