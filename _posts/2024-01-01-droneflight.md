@@ -1,7 +1,7 @@
 ---
 layout: project
 year: 2024
-title: "Non-intrusive interaction in non-critical automated driving automation surprise mitigation"
+title: "Drone Flight Behavior as User Interface"
 authors:
   - name: Michiel Molenaar
     website:
