@@ -1,0 +1,38 @@
+---
+layout: project
+year: 2024
+title: "Inter-vehicle Communication"
+authors:
+  - name: Haoyu Liu
+    website: https://nl.linkedin.com/in/haoyu-liu-ab22732b8
+coaches:
+  - name: Marieke Martens
+    website: https://research.tue.nl/en/persons/marieke-h-martens
+categories: project
+company:
+  - name: na
+    website: na
+tags: [Automated vehicle, inter-vehicle communication, internal human-machine interface (iHMI), trust calibration, overtaking and lane-changing]
+image: 2024-robotLike-1.png
+short: An inter-vehicle communication interaction enhancing manual driver’s perception to calibrate trust in AVs
+---
+
+## Description
+With rapid development of automotive technology and artificial intelligence, in-vehicle agents have large potential to solve the
+challenges raised in automated driving context through literature review. Thus, a robot-like in-vehicle agent is developed to explore
+the advantages and challenges of comparing gestures and voice interaction with facial expressions and voice interaction in SAE Level
+3 automated driving scenarios. And an experiment is conducted to evaluate the prototype. Results showed that both interactions
+of facial expressions and gestures can reduce workload, increase usefulness, satisfaction and trust. However, gestures seem to be
+more functional and more preferred by the driver while facial expressions seem to be more emotional and preferred by passengers.
+Furthermore, gestures are easier to notice but hard to understand independently and facial expressions are just the opposite.
+
+
+<div class="project-image">
+  <img src="/assets/img/2024-robotLike-2.png">
+</div>
+<div class="project-image">
+  <img src="/assets/img/2024-robotLike-3.png">
+</div>
+
+<!-- ## Video
+<iframe style="display:inline-block; border:0px solid #FFF; width: 100%; height: 358px" src="https://www.youtube.com/embed/aYPmEhbB8jk?playlist=aYPmEhbB8jk&loop=1&autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe> -->
