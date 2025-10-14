@@ -22,7 +22,7 @@ company:
     website: https://www.tudelft.nl/
 tags: [inclusive design, shared mobility, wheelchair access, modular vehicle, user-centred design, urban transport, spontaneous trave]
 image: 2025-sharedInclusive-1.png
-short: na
+short: Shared Inclusive Travel
 ---
 
 ## Description
