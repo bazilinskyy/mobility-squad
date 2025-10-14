@@ -13,25 +13,38 @@ company:
   - name: na
     website: na
 tags: [Automated vehicle, inter-vehicle communication, internal human-machine interface (iHMI), trust calibration, overtaking and lane-changing]
-image: 2024-robotLike-1.png
+image: 2024-InterVehicle-1.png
 short: An inter-vehicle communication interaction enhancing manual driver’s perception to calibrate trust in AVs
 ---
 
 ## Description
-With rapid development of automotive technology and artificial intelligence, in-vehicle agents have large potential to solve the
-challenges raised in automated driving context through literature review. Thus, a robot-like in-vehicle agent is developed to explore
-the advantages and challenges of comparing gestures and voice interaction with facial expressions and voice interaction in SAE Level
-3 automated driving scenarios. And an experiment is conducted to evaluate the prototype. Results showed that both interactions
-of facial expressions and gestures can reduce workload, increase usefulness, satisfaction and trust. However, gestures seem to be
-more functional and more preferred by the driver while facial expressions seem to be more emotional and preferred by passengers.
-Furthermore, gestures are easier to notice but hard to understand independently and facial expressions are just the opposite.
+This research explores how inter-vehicle communication can 
+enhance manual drivers’ perception automated vehicles (AVs)
+to calibrate trust during overtaking and lane-changing scenarios 
+in urban traffic. Through a research-through-design approach, 
+the study identifies key factors influencing trust, including 
+predictability, transparency, communication affordance, and 
+safe AV behaviors. The exploratory research revealed manual 
+drivers’ under-trust of AVs and informed the design of a multi-modality human-machine interface (HMI). The HMI integrates 
+visual interface and haptic feedback to deliver AV 
+maneuvers.The design went though iterative evaluations, 
+including a participatory workshop and a Guerilla evaluation 
+during a demo day. Results from the evaluation, which included 
+Likert-scale assessments and interviews, demonstrated 
+significant improvements in trust, comprehensibility, feeling 
+ofsafety, and efficiency with the HMI. This study contributes to 
+the research area of trust calibration in AVs by proposing a 
+inter-vehicle communication interaction. Future work will focus 
+on refining the prototype, testing in real-world environments, 
+and addressing more complex challenges in mixed traffic 
+scenarios.
 
 
 <div class="project-image">
-  <img src="/assets/img/2024-robotLike-2.png">
+  <img src="/assets/img/2024-InterVehicle-2.png">
 </div>
 <div class="project-image">
-  <img src="/assets/img/2024-robotLike-3.png">
+  <img src="/assets/img/2024-InterVehicle-3.png">
 </div>
 
 <!-- ## Video
