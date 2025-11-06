@@ -18,7 +18,7 @@ coaches:
     website: https://research.tue.nl/en/persons/marieke-h-martens
 categories: project
 company:
-  - name: NLR, Amsterdam
+  - name: NLR
     website: https://www.nlr.org/nl/
 tags: [Delivery Drones, Human-Drone Interaction, Visual Signals, Light Patterns]
 image: 2024-lightColorAction-1.png
