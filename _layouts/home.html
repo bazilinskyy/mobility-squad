@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
     if (current > 1) {
       const prev = document.createElement('a');
-      prev.href = '#home'; prev.className = 'pagination-button pagination-active next'; prev.textContent = 'Older';
+      prev.href = '#home'; prev.className = 'pagination-button pagination-active next'; prev.textContent = '←';
       prev.addEventListener('click', function(e){
         e.preventDefault();
         if (current > 1) {
@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
     if (current < pages) {
       const next = document.createElement('a');
-      next.href = '#home'; next.className = 'pagination-button pagination-active'; next.textContent = 'Newer';
+      next.href = '#home'; next.className = 'pagination-button pagination-active'; next.textContent = '→';
       next.addEventListener('click', function(e){
       e.preventDefault();
       if (current < pages) {
