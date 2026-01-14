@@ -2,20 +2,55 @@
 layout: default
 title: Home
 ---
-{% for post in paginator.posts %}
-  {% include featured-post.html %}
-{% endfor %}
-
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-button pagination-active next" href="{{ site.github.url }}{{ paginator.next_page_path }}">{{ site.data.settings.pagination.previous_page }}</a>
-  {% else %}
-    <span class="pagination-button">{{ site.data.settings.pagination.previous_page }}</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">{{ site.data.settings.pagination.next_page }}</a>
-  {% else %}
-    <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
-  {% endif %}
+<div id="home-posts">
+  {% for post in site.posts %}
+    <div class="home-post">
+      {% include featured-post.html %}
+    </div>
+  {% endfor %}
 </div>
+
+<!-- Client-side Pagination links -->
+<div id="home-pagination" class="pagination" aria-label="Home pagination"></div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function(){
+  const perPage = 5;
+  const posts = Array.from(document.querySelectorAll('#home-posts .home-post'));
+  const total = posts.length;
+  const pages = Math.max(1, Math.ceil(total / perPage));
+  let current = 1;
+
+  function render() {
+    const start = (current-1)*perPage;
+    const end = start + perPage;
+    posts.forEach((p,i)=> p.style.display = (i>=start && i<end) ? '' : 'none');
+
+    const pag = document.getElementById('home-pagination');
+    pag.innerHTML = '';
+    if (pages <= 1) return;
+
+    if (current > 1) {
+      const prev = document.createElement('a');
+      prev.href = '#home'; prev.className = 'pagination-button pagination-active next'; prev.textContent = 'Older';
+      prev.addEventListener('click', function(e){ e.preventDefault(); current--; render(); });
+      pag.appendChild(prev);
+    } else {
+      const span = document.createElement('span'); span.className='pagination-button'; span.textContent='Older'; pag.appendChild(span);
+    }
+
+    const info = document.createElement('span'); info.className='pagination-info'; info.textContent = ' Page ' + current + ' of ' + pages + ' '; pag.appendChild(info);
+
+    if (current < pages) {
+      const next = document.createElement('a');
+      next.href = '#home'; next.className = 'pagination-button pagination-active'; next.textContent = 'Newer';
+      next.addEventListener('click', function(e){ e.preventDefault(); current++; render(); });
+      pag.appendChild(next);
+    } else {
+      const span = document.createElement('span'); span.className='pagination-button'; span.textContent='Newer'; pag.appendChild(span);
+    }
+  }
+
+  render();
+});
+</script>
