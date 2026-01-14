@@ -33,7 +33,13 @@ document.addEventListener('DOMContentLoaded', function(){
     if (current > 1) {
       const prev = document.createElement('a');
       prev.href = '#home'; prev.className = 'pagination-button pagination-active next'; prev.textContent = 'Older';
-      prev.addEventListener('click', function(e){ e.preventDefault(); current--; render(); });
+      prev.addEventListener('click', function(e){
+        e.preventDefault();
+        if (current > 1) {
+          current--;
+          render();
+        }
+      });
       pag.appendChild(prev);
     } else {
       const span = document.createElement('span'); span.className='pagination-button'; span.textContent='Older'; pag.appendChild(span);
@@ -44,7 +50,13 @@ document.addEventListener('DOMContentLoaded', function(){
     if (current < pages) {
       const next = document.createElement('a');
       next.href = '#home'; next.className = 'pagination-button pagination-active'; next.textContent = 'Newer';
-      next.addEventListener('click', function(e){ e.preventDefault(); current++; render(); });
+      next.addEventListener('click', function(e){
+      e.preventDefault();
+      if (current < pages) {
+          current++;
+          render();
+        }
+      });
       pag.appendChild(next);
     } else {
       const span = document.createElement('span'); span.className='pagination-button'; span.textContent='Newer'; pag.appendChild(span);
