@@ -1,12 +1,18 @@
 ---
+---
 layout: page
 title: Projects
 permalink: /projects
+pagination:
+  enabled: true
+  collection: "posts"
+  per_page: 5
+  permalink: '/projects/:num/'
 ---
 
 <table class="project-table">
   <tbody>
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
       <tr>
         <td class="project-cell-left">
           <a href="{{ post.url }}"><img src="/assets/img/{{ post.image }}" class="project-thumbnail"></a>
