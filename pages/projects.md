@@ -40,7 +40,7 @@ permalink: /projects
 
   <script>
   document.addEventListener('DOMContentLoaded', function(){
-    const perPage = 5;
+    const perPage = 25;
     const rows = Array.from(document.querySelectorAll('#projects-tbody tr'));
     const total = rows.length;
     const pages = Math.max(1, Math.ceil(total / perPage));
