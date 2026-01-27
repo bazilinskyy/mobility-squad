@@ -18,8 +18,7 @@ categories: project
 company:
   - name: na
     website: na
-tags: [Driver Awareness, Haptics, Fatigue reduction 
-] 
+tags: [Driver Awareness, Road Safety, Fatigue reduction] 
 image: 2026-BetterISA.jpg
 short: Improving User Experience in Intelligent Speed Assistance Systems.
 ---
