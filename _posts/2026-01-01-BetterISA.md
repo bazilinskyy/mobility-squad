@@ -44,7 +44,7 @@ How can an Intelligent Speed Assistance (ISA) interface be designed to increase 
   <img src="/assets/img/2026-BetterISA-2.jpg">
 </div>
 <div class="project-image">
-  <img src="/assets/img/2026-2026-BetterISA-3.jpg">
+  <img src="/assets/img/2026-BetterISA-3.jpg">
 </div>
 
 <!-- ## Video
