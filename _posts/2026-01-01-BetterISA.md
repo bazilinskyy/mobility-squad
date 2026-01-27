@@ -1,6 +1,6 @@
 ---
 layout: project
-year: 2025
+year: 2026
 title: "Better ISA"
 authors:
   - name: Niek van Oeffelt
