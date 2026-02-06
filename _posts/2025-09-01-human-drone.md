@@ -1,7 +1,7 @@
 ---
 layout: project
 year: 2025
-title: "Human-Drone Interaction in Open Urban Spaces"
+title: "Human-drone interaction in open urban spaces"
 authors:
   - name: Jakub Woziwodzki
     website: https://woziwodzki.framer.website/
