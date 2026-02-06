@@ -21,7 +21,7 @@ company:
   - name: TU Delft
     website: https://www.tudelft.nl/
 tags: [inclusive design, shared mobility, wheelchair access, modular vehicle, user-centred design, urban transport, spontaneous trave]
-image: 2025-sharedInclusive-1.jpg
+image: 2025-shared-inclusive-1.jpg
 short: Shared Inclusive Travel
 ---
 
@@ -40,10 +40,10 @@ opportunities for more equal mobility in cities.
 
 
 <div class="project-image">
-  <img src="/assets/img/2025-sharedInclusive-2.jpg">
+  <img src="/assets/img/2025-shared-inclusive-2.jpg">
 </div>
 <div class="project-image">
-  <img src="/assets/img/2025-sharedInclusive-3.jpg">
+  <img src="/assets/img/2025-shared-inclusive-3.jpg">
 </div>
 
 <!-- ## Video
