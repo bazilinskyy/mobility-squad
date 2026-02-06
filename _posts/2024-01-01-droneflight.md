@@ -1,7 +1,7 @@
 ---
 layout: project
 year: 2024
-title: "Drone Flight Behavior as User Interface"
+title: "Drone flight behaviour as user interface"
 authors:
   - name: Michiel Molenaar
     website:

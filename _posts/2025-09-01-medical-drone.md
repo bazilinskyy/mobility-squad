@@ -1,7 +1,7 @@
 ---
 layout: project
 year: 2025
-title: "Medical Emergency Drone"
+title: "Medical emergency drone"
 authors:
   - name: Axel Reitz
     website: https://nl.linkedin.com/in/axel-reitz-28140b285

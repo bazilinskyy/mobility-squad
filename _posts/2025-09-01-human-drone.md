@@ -4,7 +4,7 @@ year: 2025
 title: "Human-drone interaction in open urban spaces"
 authors:
   - name: Jakub Woziwodzki
-    website: https://woziwodzki.framer.website/
+    website: https://woziwodzki.framer.website
 coaches:
   - name: Pavlo Bazilinskyy
     website: https://bazilinskyy.github.io

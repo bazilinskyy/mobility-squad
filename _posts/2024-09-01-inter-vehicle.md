@@ -1,7 +1,7 @@
 ---
 layout: project
 year: 2024
-title: "Inter-vehicle Communication"
+title: "Inter-vehicle communication"
 authors:
   - name: Haoyu Liu
     website: https://nl.linkedin.com/in/haoyu-liu-ab22732b8

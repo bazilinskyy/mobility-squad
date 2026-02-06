@@ -1,7 +1,7 @@
 ---
 layout: project
 year: 2024
-title: "Light, Colour, Action"
+title: "Light, colour, action"
 authors:
   - name: Nils Vaessen
     website: https://nilsvaessen.nl/
