@@ -21,7 +21,7 @@ company:
   - name: NLR
     website: https://www.nlr.org/nl/
 tags: [Delivery Drones, Human-Drone Interaction, Visual Signals, Light Patterns]
-image: 2024-lightColorAction-1.jpg
+image: 2024-light-colour-action-1.jpg
 short: Improving human-drone interaction
 ---
 
@@ -46,10 +46,10 @@ signals or adaptive drone behaviour.
 
 
 <div class="project-image">
-  <img src="/assets/img/2024-lightColorAction-2.jpg">
+  <img src="/assets/img/2024-light-colour-action-2.jpg">
 </div>
 <div class="project-image">
-  <img src="/assets/img/2024-lightColorAction-3.jpg">
+  <img src="/assets/img/2024-light-colour-action-3.jpg">
 </div>
 
 <!-- ## Video

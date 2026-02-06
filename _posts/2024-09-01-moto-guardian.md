@@ -13,7 +13,7 @@ company:
   - name: na
     website: na
 tags: [Motorcycle Safety, Advanced Rider, Assistance Systems, human-AI Interaction, Computer Vision, Neural Networks, Urban Traffic]
-image: 2024-MotoGuardian-1.jpg
+image: 2024-moto-guardian-1.jpg
 short: Motorcycle-Specific Neural Network for Predicting Motorcycle Crash Probability in Urban Environments
 ---
 
@@ -36,10 +36,10 @@ for the future implementation of AI-powered ARAS systems in
 motorcycles
 
 <div class="project-image">
-  <img src="/assets/img/2024-MotoGuardian-2.jpg">
+  <img src="/assets/img/2024-moto-guardian-2.jpg">
 </div>
 <div class="project-image">
-  <img src="/assets/img/2024-MotoGuardian-3.jpg">
+  <img src="/assets/img/2024-moto-guardian-3.jpg">
 </div>
 
 <!-- ## Video
