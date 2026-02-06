@@ -14,7 +14,7 @@ company:
     website: https://group.mercedes-benz.com
 tags: [first-time-users,in0-vehicle,gestures,gaze]
 image: 2025-firsttimeusers-1.jpg
-short: Proactive teaching of gaze and gesture interaction for first-time users in sae level 5 automated vehicles
+short: Proactive teaching of gaze and gesture interaction for first-time users in sae level 5 automated vehicles.
 ---
 
 ## Description

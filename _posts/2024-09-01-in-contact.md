@@ -14,30 +14,12 @@ company:
     website: na
 tags: [Self-Driving Cars, External Communication, Trust in AVs, Pedestrian Interaction, Safety Perception, VR]
 image: 2024-in-contact-1.jpg
-short: Designing external communications between Self-driving Cars and Humans
+short: Designing external communications between self-driving cars and humans.
 
 ---
 
 ## Description
-Self-driving cars introduce a particular challenge, which
-has prompted various concepts and design solutions;
-communication with other road users, such as pedestrians.
-In this study, the design, development and testing of an
-external communication system is presented, that aims to
-bridge the gap of trust between self-driving cars and other
-road users. The design features rotating spherical ‘eye’-like
-devices mounted on the car that, combined with colored
-light signals (cyan for acknowledgement and purple for
-yielding), communicate the vehicle’s intentions. User
-testing (N=10) was performed in a controlled VR
-environment to evaluate the design, in which participants
-were presented with two pedestrian-crossing scenarios: one
-in which the car does not feature any external
-communications, and one with the proposed design. The
-results showed significant improvements in the perceived
-feeling of safety with the proposed design, as opposed to a
-car without any forms of external communication.
-
+Self-driving cars introduce a particular challenge, which has prompted various concepts and design solutions; communication with other road users, such as pedestrians. In this study, the design, development and testing of an external communication system is presented, that aims to bridge the gap of trust between self-driving cars and other road users. The design features rotating spherical ‘eye’-like devices mounted on the car that, combined with colored light signals (cyan for acknowledgement and purple for yielding), communicate the vehicle’s intentions. User testing (N=10) was performed in a controlled VR environment to evaluate the design, in which participants were presented with two pedestrian-crossing scenarios: one in which the car does not feature any external communications, and one with the proposed design. The results showed significant improvements in the perceived feeling of safety with the proposed design, as opposed to a car without any forms of external communication.
 
 <div class="project-image">
   <img src="/assets/img/2024-in-contact-2.jpg">
