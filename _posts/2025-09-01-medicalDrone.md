@@ -14,7 +14,7 @@ company:
     website: na
 tags: [HDI, uncertainty, medical drones, drone design]
 image: 2025-medicaldrone-1.jpg
-short: Medical Emergecny Drone
+short: Medical emergecny drone.
 ---
 
 ## Description
