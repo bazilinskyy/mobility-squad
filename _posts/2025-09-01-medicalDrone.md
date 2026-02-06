@@ -14,13 +14,13 @@ company:
     website: na
 tags: [HDI, uncertainty, medical drones, drone design]
 image: 2025-medicaldrone-1.jpg
-short: Medical emergecny drone.
+short: Medical emergency drone.
 ---
 
 ## Description
-This report presents a user-centered approach to the design of a medical emergency drone. Moreover, following the results of first-hand research, several design guidelines are suggested.
+This project presents a user-centered approach to the design of a medical emergency drone. Moreover, following the results of first-hand research, several design guidelines are suggested.
 
-Myocardial infarction (MI), commonly known as a heart attack is among the highest causes of human death and disability worldwide. In the Netherlands, out of approximately 17.000 people who suffered a heart attack in 2020 almost 4700 people died. When someone suffers a heart attack, a timely response can dramatically improve survival rates and accelerate recovery. Real-life trials in Sweden have proven that AED-equipped drones can significantly reduce emergency response times[13], thus improving chances of survival.
+Myocardial infarction (MI), commonly known as a heart attack is among the highest causes of human death and disability worldwide. In the Netherlands, out of approximately 17.000 people who suffered a heart attack in 2020 almost 4700 people died. When someone suffers a heart attack, a timely response can dramatically improve survival rates and accelerate recovery. Real-life trials in Sweden have proven that AED-equipped drones can significantly reduce emergency response times, thus improving chances of survival.
 
 With recent developments in UAV (Unmanned Aerial Vehicle) technologies, more life-saving use cases of drones have been highlighted in research, as well as in real-life applications. Companies like Matternet and Avy have proven feasibility and viability for medical delivery operations, while research by Alvarez-Garcia et. al, proposes to deploy drones for more complicated tasks such as triage, the process of quickly assessing and prioritizing patients based on the severity of their condition. Implementing such technologies on a larger scale offers significant benefits to society, prompting the need to consider a future in which drones are more commonplace in society.
 

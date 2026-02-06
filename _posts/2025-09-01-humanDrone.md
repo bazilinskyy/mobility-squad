@@ -16,7 +16,7 @@ company:
     website: na
 tags: [Delivery Drones, Urban Mobility, Trust in Drones, Unmanned Aerial Vehicles (UAV)]
 image: 2025-humandrone-1.jpg
-short: Drone-Initiated Guidance Requests
+short: Drone-initiated guidance requests.
 ---
 
 ## Description
