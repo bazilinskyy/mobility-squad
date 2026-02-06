@@ -22,7 +22,7 @@ company:
     website: na
 tags: [Driver Awareness, Haptics, Fatigue reduction 
 ] 
-image: 2026-pulseDrive.png
+image: 2026-pulsedrive-1.jpg
 short: Be in the loop.
 ---
 
@@ -34,10 +34,10 @@ afforded greater opportunities to expand our competencies as designers.
 
 
 <div class="project-image">
-  <img src="/assets/img/2026-pulseDrive-2.png">
+  <img src="/assets/img/2026-pulsedrive-2.jpg">
 </div>
 <div class="project-image">
-  <img src="/assets/img/2026-pulseDrive-3.jpg">
+  <img src="/assets/img/2026-pulsedrive-3.jpg">
 </div>
 
 <!-- ## Video

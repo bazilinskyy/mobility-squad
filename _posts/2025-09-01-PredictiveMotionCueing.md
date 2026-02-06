@@ -14,8 +14,8 @@ company:
     website: https://www.tno.nl/
 tags: [Haptic Feedback, Vibrotactile Interface Design, Automated Vehicles (SAE Level 3–4), Human-Machine Interaction (HMI), Research Probe
 ] 
-image: 2025-PredictiveMotionCueing-1.jpg
-short: Vibrotactile feedback
+image: 2025-predictivemotioncueing-1.jpg
+short: Vibrotactile feedback.
 ---
 
 ## Description
@@ -34,10 +34,10 @@ comfort, and trust in AVs
 
 
 <div class="project-image">
-  <img src="/assets/img/2025-PredictiveMotionCueing-2.jpg">
+  <img src="/assets/img/2025-predictivemotioncueing-2.jpg">
 </div>
 <div class="project-image">
-  <img src="/assets/img/2025-PredictiveMotionCueing-3.jpg">
+  <img src="/assets/img/2025-predictivemotioncueing-3.jpg">
 </div>
 
 <!-- ## Video

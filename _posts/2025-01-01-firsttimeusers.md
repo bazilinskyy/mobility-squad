@@ -13,7 +13,7 @@ company:
   - name: Mercedes-Benz Group
     website: https://group.mercedes-benz.com
 tags: [first-time-users,in0-vehicle,gestures,gaze]
-image: 2025-firsttimeusers-1.png
+image: 2025-firsttimeusers-1.jpg
 short: Proactive teaching of gaze and gesture interaction for first-time users in sae level 5 automated vehicles
 ---
 
@@ -22,7 +22,7 @@ This study examines three variations of a proactive method for teaching multimod
 
 
 <div class="project-image">
-  <img src="/assets/img/2025-firsttimeusers-2.png">
+  <img src="/assets/img/2025-firsttimeusers-2.jpg">
 </div>
 
 ## Publication

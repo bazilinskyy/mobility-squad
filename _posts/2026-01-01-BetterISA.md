@@ -19,8 +19,8 @@ company:
   - name: na
     website: na
 tags: [Driver Awareness, Road Safety, Fatigue reduction] 
-image: 2026-BetterISA.jpg
-short: Improving User Experience in Intelligent Speed Assistance Systems.
+image: 2026-betterisa-1.jpg
+short: Improving user experience in intelligent speed assistance systems.
 ---
 
 ## Description
@@ -40,10 +40,10 @@ How can an Intelligent Speed Assistance (ISA) interface be designed to increase 
 
 
 <div class="project-image">
-  <img src="/assets/img/2026-BetterISA-2.jpg">
+  <img src="/assets/img/2026-betterisa-2.jpg">
 </div>
 <div class="project-image">
-  <img src="/assets/img/2026-BetterISA-3.jpg">
+  <img src="/assets/img/2026-betterisa-3.jpg">
 </div>
 
 <!-- ## Video

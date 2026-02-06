@@ -13,7 +13,7 @@ company:
   - name: na
     website: na
 tags: [Automated vehicle, inter-vehicle communication, internal human-machine interface (iHMI), trust calibration, overtaking and lane-changing]
-image: 2024-InterVehicle-1.png
+image: 2024-InterVehicle-1.jpg
 short: An inter-vehicle communication interaction enhancing manual driver’s perception to calibrate trust in AVs
 ---
 
@@ -41,10 +41,10 @@ scenarios.
 
 
 <div class="project-image">
-  <img src="/assets/img/2024-InterVehicle-2.png">
+  <img src="/assets/img/2024-InterVehicle-2.jpg">
 </div>
 <div class="project-image">
-  <img src="/assets/img/2024-InterVehicle-3.png">
+  <img src="/assets/img/2024-InterVehicle-3.jpg">
 </div>
 
 <!-- ## Video

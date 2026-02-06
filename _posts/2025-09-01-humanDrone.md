@@ -15,7 +15,7 @@ company:
   - name: na
     website: na
 tags: [Delivery Drones, Urban Mobility, Trust in Drones, Unmanned Aerial Vehicles (UAV)]
-image: 2025-humanDrone-1.png
+image: 2025-humanDrone-1.jpg
 short: Drone-Initiated Guidance Requests
 ---
 
@@ -29,10 +29,10 @@ To mitigate these constraints, some operators have targeted public parks. For ex
 
 
 <div class="project-image">
-  <img src="/assets/img/2025-humanDrone-2.png">
+  <img src="/assets/img/2025-humanDrone-2.jpg">
 </div>
 <div class="project-image">
-  <img src="/assets/img/2024-2025-humanDrone-3.png">
+  <img src="/assets/img/2024-2025-humanDrone-3.jpg">
 </div>
 
 <!-- ## Video

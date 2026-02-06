@@ -13,7 +13,7 @@ company:
   - name: na
     website: na
 tags: [Self-Driving Cars, External Communication, Trust in AVs, Pedestrian Interaction, Safety Perception, VR]
-image: 2024-InContact-1.png
+image: 2024-InContact-1.jpg
 short: Designing external communications between Self-driving Cars and Humans
 
 ---
@@ -40,10 +40,10 @@ car without any forms of external communication.
 
 
 <div class="project-image">
-  <img src="/assets/img/2024-InContact-2.png">
+  <img src="/assets/img/2024-InContact-2.jpg">
 </div>
 <div class="project-image">
-  <img src="/assets/img/2024-InContact-3.png">
+  <img src="/assets/img/2024-InContact-3.jpg">
 </div>
 
 <!-- ## Video

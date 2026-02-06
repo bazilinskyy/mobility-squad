@@ -13,13 +13,12 @@ company:
   - name: na
     website: na
 tags: [HDI, uncertainty, medical drones, drone design]
-image: 2025-medicalDrone-1.jpg
+image: 2025-medicaldrone-1.jpg
 short: Medical Emergecny Drone
 ---
 
 ## Description
 This report presents a user-centered approach to the design of a medical emergency drone. Moreover, following the results of first-hand research, several design guidelines are suggested.
-
 
 Myocardial infarction (MI), commonly known as a heart attack is among the highest causes of human death and disability worldwide. In the Netherlands, out of approximately 17.000 people who suffered a heart attack in 2020 almost 4700 people died. When someone suffers a heart attack, a timely response can dramatically improve survival rates and accelerate recovery. Real-life trials in Sweden have proven that AED-equipped drones can significantly reduce emergency response times[13], thus improving chances of survival.
 
@@ -30,10 +29,10 @@ This future perspective stresses the importance of research into human-drone int
 In HDI, understanding what factors contribute to feelings of uncertainty is crucial for safer interactions. Such feelings may arise when interactions differ from expectations, especially amongst those with limited experiences with. Previous literature suggests that eHMI’s, external human-machine interfaces, can effectively communicate intent in AV’s and drones, especially when combined with implicit communication methods such as vehicle dynamics.
 
 <div class="project-image">
-  <img src="/assets/img/2025-medicalDrone-2.png">
+  <img src="/assets/img/2025-medicaldrone-2.jpg">
 </div>
 <!-- <div class="project-image">
-  <img src="/assets/img/2025-sharedInclusive-3.png">
+  <img src="/assets/img/2025-sharedInclusive-3.jpg">
 </div> -->
 
 <!-- ## Video
